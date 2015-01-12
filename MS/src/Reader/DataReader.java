@@ -107,19 +107,5 @@ public class DataReader{
                 // Preach the Word!
                 return senses;
         }
-        
-        public static void main(String[] args) {
-        	String stringy = "C:\\Users\\Earthhorn\\Desktop\\test_cnn_names.txt";
-        	String contents = readOntoNoteFileAsString(stringy);
-        	System.out.println(contents);
-        	System.out.println();
-        	System.out.println();
-        	String stringy2 = "C:\\Users\\Earthhorn\\Desktop\\test_cnn_senses.txt";
-        	ArrayList<Word> contents2 = readSenses(stringy2);
-        	for (Word word:contents2){
-        		String word_string = word.get_longstuff() + " - " + word.get_sentence() + " - " + word.get_word_in_sentence() + " - " + word.get_lemma() + " - " + word.get_sense();
-        		System.out.println(word_string);
-        	}
-        }
 }
 
