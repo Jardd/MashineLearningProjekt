@@ -12,12 +12,14 @@ public class SimilarityMeasure {
 
 		
 	}
-	/*
+	/**
 	 * Sets all Edges between vertices from different words in one sentence
 	 * 
 	 */	
 	public void calculation(Sentence sentence){
+		//Iterates over all words
 		for(Word w:sentence.getWordsInSentence()){
+			//Iterates over all Vertices
 			for(Vertice v:w.getVertices()){
 				for(Word word:sentence.getWordsInSentence()){
 					if(word !=w){

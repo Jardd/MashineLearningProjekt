@@ -7,10 +7,11 @@ public class Sentence {
 
 	public Sentence(String sentence){
 		words=sentence.split(" ");
+		String wordklasses = null;
 		
 		
 		for (int i = 0; i<words.length; i++){
-			Word w=new Word(words[i]);
+			Word w=new Word(words[i], wordklasses);
 			wordsInSentence[i]=w;
 		}
 	}

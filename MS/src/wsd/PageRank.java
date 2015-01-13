@@ -32,7 +32,7 @@ public class PageRank {
 	}
 
 
-	/*
+	/**
 	 * calculates PageRank for VertexA (first round). 
 	 * To get an actual the calculatePageRank method must be used afterwards. 
 	 */
@@ -54,7 +54,7 @@ public class PageRank {
 		return  pr;
 	}
 	
-	/*
+	/**
 	 * the weight from VertexA and VertexB (edge value) is devided by the sum of all weights which connect to  VetexB
 	 */
 	public double divideWeights(Vertice vertexA, Vertice vertexB){
@@ -73,7 +73,7 @@ public class PageRank {
 		return weightAB/sumWeightConnectingVertexB;
 	}
 	
-	/*
+	/**
 	 * calculate pageRank
 	 */
 	public void calculatePageRank(Vertice vertexA){
