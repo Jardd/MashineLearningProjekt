@@ -1,7 +1,7 @@
 package Reader;
 // Makes it easier to create arrays.
 
-public class Word {
+public class Lemma {
 	
 	//Variables
 	public String longstuff;
@@ -11,7 +11,7 @@ public class Word {
 	public int sense;
 	
 	//Builder
-	public Word(String longstuff, int sentence, int word_in_sentence, String lemma, int sense){
+	public Lemma(String longstuff, int sentence, int word_in_sentence, String lemma, int sense){
 		this.longstuff = longstuff;
 		this.sentence = sentence;
 		this.word_in_sentence = word_in_sentence;
@@ -56,5 +56,17 @@ public class Word {
 	public int set_sense(int neu){
 		this.sense = neu;
 		return this.sense;
+	}
+	
+	public static void main(String[] args){
+		String alpha = "(NP-SBJ (PRP they))";
+		String[] beta = alpha.split(" ");
+		String gamma = beta[beta.length -2].substring(1);
+		System.out.println(gamma);
+		if(gamma.equals("PRP")){
+			System.out.println("ADJ");
+		}else{
+			System.out.println("NN");
+		}
 	}
 }

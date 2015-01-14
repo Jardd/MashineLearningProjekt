@@ -3,6 +3,8 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Iterator;
 import java.util.List;
 import java.lang.String;
 
@@ -73,6 +75,61 @@ public class DataReader{
                 }
                 return lines;
         }
+        /**
+        * Is probably inefficient as hell, but should work just fine for testing purposes.
+        * Because I am lazy and want to be able to dream of Betty tonight, i did it this way...
+        * If anybody reads this (probably only Tobi otherwise Betty wouldn´t have asked what
+        * my functions do) - with a bit more time and more incentives from Betty this code 
+        * probably can be upgraded by myself.
+        * 
+        * Takes a {@link String} for two different OntoNote-Filetypes (name + parse),
+        * excerpts the word-type of each word and stores it in one giant {@link List} of
+        * {@Link String} Objects.
+        * Hint => Every new sentence starts with a [Speaker]! (Except the first who got eaten?)
+        */
+        
+        public static List<String> parseTheCorpus(String parseFile, String nameFile){
+        	// READ ALL THE FILES!
+        	String contents_parse = readOntoNoteFileAsString(parseFile);
+        	String contents_name = readOntoNoteFileAsString(nameFile);
+        	String[] contents_parse_split = contents_parse.split(" ");
+    		String[] contents_name_split = contents_name.split(" ");
+    		// init the returned List
+			List<String> lines = new ArrayList<String>();
+			// counters to prevent work
+			int counter = 0;
+			// for every word in the name_file
+    		for( int i = 0; i < contents_name_split.length;i++){
+    			// search the parsed version (with a reminder where we stopped last time)
+    			for( int a = counter; a < contents_parse_split.length; a++){
+    				// for it´s twin!
+    				String word = contents_parse_split[a].replaceAll("\\)","");
+    				if( contents_name_split[i].equals(word)){
+    					// Get the type from the parsed version
+    					String type = contents_parse_split[a-1].substring(1);
+    					// Put the info together
+    					/**
+    					 * DUMMY TO FILL IN!
+    					 */
+    					if(type.equals("NNP") | type.equals("NN") | type.equals("NNS")){
+    						lines.add(contents_name_split[i]+" - "+"NN");
+    					}else if(type.equals("DT")){
+    						lines.add(contents_name_split[i]+" - "+"DET");
+    					}else{
+    						lines.add(contents_name_split[i]+" - "+type);
+    					}
+    					/**
+    					 * DUMMY TO FILL IN!
+    					 */
+    					// Mark the place, so we don´t search twice and leave
+    					counter = a;
+    					break;
+    				}
+    			}
+    		}
+    		// give back the info
+    		return lines;
+		}
 
         /**
          * Reads word-type + senses from an input OntoNote file and stores them into
@@ -81,9 +138,9 @@ public class DataReader{
          * @param file the input file
          * @return a {@link ArrayList} storing {@Link Word}
          */
-        public static ArrayList<Word> readSenses(String file) {
+        public static ArrayList<Lemma> readSenses(String file) {
                 // init the Array to return
-                ArrayList<Word> senses = new ArrayList<Word>();
+                ArrayList<Lemma> senses = new ArrayList<Lemma>();
                 try (BufferedReader bReader = new BufferedReader(new FileReader(file)))  {
                         // until we reach the end-of-file
                         while (bReader.ready()) {
@@ -99,7 +156,7 @@ public class DataReader{
                                         System.exit(1);
                                 }*/
                                 // create the word with every info except the placeholder
-                                senses.add(new Word(splitLine[0], Integer.parseInt(splitLine[1]), Integer.parseInt(splitLine[2]), splitLine[3], Integer.parseInt(splitLine[splitLine.length-1])));
+                                senses.add(new Lemma(splitLine[0], Integer.parseInt(splitLine[1]), Integer.parseInt(splitLine[2]), splitLine[3], Integer.parseInt(splitLine[splitLine.length-1])));
                         }
                 } catch (IOException ioe) {
                         ioe.printStackTrace();
@@ -107,5 +164,14 @@ public class DataReader{
                 // Preach the Word!
                 return senses;
         }
+        
+        public static void main(String[] args) {
+
+        	// YOU MIGHT WANT TO USE IT LIKE THIS.
+        	
+        	List<String> test = parseTheCorpus("C:\\Users\\Earthhorn\\Desktop\\test_cnn_parse.txt","C:\\Users\\Earthhorn\\Desktop\\test_cnn_names.txt");
+        	System.out.println(Arrays.toString(test.toArray()));
+        }
+
 }
 
