@@ -4,11 +4,12 @@ import java.util.ArrayList;
 
 public class Vertice {
 	
-	private ArrayList<Edge> edges; //[index of word in sentence][index of sense in word][value]
+	private ArrayList<Edge> edges=new ArrayList<Edge>(); //[index of word in sentence][index of sense in word][value]
 	private String senseDiscription;
 	private Word word;
-	private int index;
-	private double pageRank;
+	private Integer index=new Integer(00000000);
+	private double pageRank=0.0;
+	private double tmpPageRank=0.0;
 	
 	public Vertice(String sense, Word word){
 		this.word=word;
@@ -24,11 +25,11 @@ public class Vertice {
 		this.word = word;
 	}
 
-	public int getIndex() {
+	public Integer getIndex() {
 		return index;
 	}
 
-	public void setIndex(int index) {
+	public void setIndex(Integer index) {
 		this.index = index;
 	}
 
@@ -58,7 +59,16 @@ public class Vertice {
 	}
 
 	public void setPageRank(double pageRank) {
-		pageRank = pageRank;
+		this.pageRank = pageRank;
+		
+	}
+
+	public double getTmpPageRank() {
+		return tmpPageRank;
+	}
+
+	public void setTmpPageRank(double tmpPageRank) {
+		this.tmpPageRank = tmpPageRank;
 	}
 
 

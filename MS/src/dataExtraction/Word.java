@@ -1,4 +1,4 @@
-package DataExtraction;
+package dataExtraction;
 //Makes it easier to create arrays.
 public class Word {
 	//Variables

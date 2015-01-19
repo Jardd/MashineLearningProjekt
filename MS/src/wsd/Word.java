@@ -24,15 +24,21 @@ public class Word {
 		
 			for (int i = 0; i<senses.size(); i++){
 				String senseAndIndex=senses.get(i);
-				String[]tmp=senseAndIndex.split(":");
-				String sense=tmp[1];
-				int index=Integer.parseInt(tmp[0]);
+	//			System.out.println("senseWN: "+senses.get(i));
+				
+				if(senseAndIndex.length()>1){//Nur wenn ein sense gefunden wurde
+					String[]tmp=senseAndIndex.split("\\|", 2);
+//				System.out.println("tmp 0: "+tmp[0]);
+//				System.out.println("tmp1: "+tmp[1]);
+					String sense=tmp[1];
+					Integer index=Integer.parseInt(tmp[0]);
 			
 			
-				Vertice v=new Vertice(sense,this);
-				v.setSenseDiscription(sense);
-				v.setIndex(index);
-				vertices[i]=v;
+					Vertice v=new Vertice(sense,this);
+					v.setSenseDiscription(sense);
+					v.setIndex(index);
+					vertices[i]=v;
+				}
 			}
 		}
 	}
@@ -48,7 +54,7 @@ public class Word {
 		try {
 			ArrayList<String> sense=null;
 			sense = WorkingAlgorithm.getSenses(wordOne, wordclass);
-			
+			//System.out.println("wordclass: "+wordclass);
 			return sense;
 		} catch (IOException e) {
 			// TODO Auto-generated catch block

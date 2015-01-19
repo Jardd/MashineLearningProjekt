@@ -46,14 +46,13 @@ public class WorkingAlgorithm {
 		}
 		
 		ArrayList<String> outputList = new ArrayList<String>();
-		String dataDocument = "data/data." + pos; //finaler link
+		String dataDocument = "data/data." + pos; //link zum datenset
 		
 		//datei wird ausgelesen
 		try{
 			FileReader inputFile = new FileReader(dataDocument);
 			BufferedReader bufferReader = new BufferedReader(inputFile);
 			String line;
-			
 			while ((line = bufferReader.readLine()) != null)   {
 				String temp = PatternSeeker.seekPattern(inputWord, line);
 				if (temp != "") {
