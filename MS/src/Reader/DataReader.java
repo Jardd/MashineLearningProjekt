@@ -187,8 +187,23 @@ public class DataReader{
                                 line = line.trim();
                                 if (!line.isEmpty()) {
                                 		String[] line_split = line.split(" +");
-                                		String pos_tagged = line_split[3] + " - " + line_split[4];
-                                		lines.add(pos_tagged);
+                                		/**
+                    					 * DUMMY TO FILL IN!
+                    					 */
+                                		String type = line_split[4];
+                    					if(type.equals("NNP") | type.equals("NN") | type.equals("NNS")){
+                    						lines.add(line_split[3] + " - " + "N");
+                    					}else if(type.equals("DT")){
+                    						lines.add(line_split[3] + " - " + "DET");
+                    					}else if(type.equals("VBP")){
+                    						lines.add(line_split[3] + " - " + "V");	
+                    					}else{
+                    						lines.add(line_split[3] + " - " +  type);
+                    					}
+                    					/**
+                    					 * DUMMY TO FILL IN!
+                    					 */
+
                                 }
                         }
                 } catch (IOException ioe) {
