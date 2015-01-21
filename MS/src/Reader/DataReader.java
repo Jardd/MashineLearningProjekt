@@ -4,132 +4,11 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Iterator;
+import java.util.HashMap;
 import java.util.List;
 import java.lang.String;
 
 public class DataReader{
-
-        /**
-         * A simple method to read the entire content of OntoNote (pref: names) data into
-         * a single String.
-         *
-         * @param file the input file
-         * @return a {@link String} with the content of the OntoNote file
-         */
-        public static String readOntoNoteFileAsString(String file) {
-                // start with an empty string
-                String content = "";
-                // read the content line-wise
-                List<String> lines = readOntoNoteFileLineWise(file);
-                // concatenate all strings
-                for (String line : lines) {
-                        content += line + " ";
-                }
-                // remove extra space at the end of the line
-                content = content.trim();
-                // adds start/end symbol
-                content = "$" + content;
-                content = content + "@";
-                return content;
-        }
-
-        /**
-         * A simple method to read the OntoNote data into a {@link List} of
-         * {@link String} objects. Each element in the list is a line of
-         * data from the source data file
-         *
-         * @param file the input file
-         * @return a {@link List} where each element is a line from the input
-         *      OntoNote file
-         */
-        public static List<String> readOntoNoteFileLineWise(String file) {
-        		// init the list
-                List<String> lines = new ArrayList<String>();
-                // read the file
-                try (BufferedReader bReader = new BufferedReader(new FileReader(file))) {
-                        // until we reach the end-of-file
-                        while (bReader.ready()) {
-                                // a single line
-                                String line = bReader.readLine();
-                                // clean-up
-                                line = line.trim();
-                                if (!line.isEmpty()) {
-                                		// strip the enamex
-                                		String line_stripped = line.replaceAll("<.*?>", "");
-                                		// strip disfluencies
-                                		String line_stripped2 = line_stripped.replaceAll("-LAB-disfluency-RAB-.*?-LAB-/disfluency-RAB-", "");
-                                		// strip narrators
-                                		if (line_stripped2.startsWith("[")){
-                                			String line_stripped3 = line_stripped2.replaceAll("[.*?]", "");
-                                			// store it in the list
-                                			lines.add(line_stripped3);
-                                		}else{
-                                			// store it in the list
-                                			lines.add(line_stripped2);
-                                		}
-                                }
-                        }
-                } catch (IOException ioe) {
-                        ioe.printStackTrace();
-                }
-                return lines;
-        }
-        /**
-        * Is probably inefficient as hell, but should work just fine for testing purposes.
-        * Because I am lazy and want to be able to dream of Betty tonight, i did it this way...
-        * If anybody reads this (probably only Tobi otherwise Betty wouldn´t have asked what
-        * my functions do) - with a bit more time and more incentives from Betty this code 
-        * probably can be upgraded by myself.
-        * 
-        * Takes a {@link String} for two different OntoNote-Filetypes (name + parse),
-        * excerpts the word-type of each word and stores it in one giant {@link List} of
-        * {@Link String} Objects.
-        * Hint => Every new sentence starts with a [Speaker]! (Except the first who got eaten?)
-        */
-        
-        public static List<String> parseTheCorpus(String parseFile, String nameFile){
-        	// READ ALL THE FILES!
-        	String contents_parse = readOntoNoteFileAsString(parseFile);
-        	String contents_name = readOntoNoteFileAsString(nameFile);
-        	String[] contents_parse_split = contents_parse.split(" ");
-    		String[] contents_name_split = contents_name.split(" ");
-    		// init the returned List
-			List<String> lines = new ArrayList<String>();
-			// counters to prevent work
-			int counter = 0;
-			// for every word in the name_file
-    		for( int i = 0; i < contents_name_split.length;i++){
-    			// search the parsed version (with a reminder where we stopped last time)
-    			for( int a = counter; a < contents_parse_split.length; a++){
-    				// for it´s twin!
-    				String word = contents_parse_split[a].replaceAll("\\)","");
-    				if( contents_name_split[i].equals(word)){
-    					// Get the type from the parsed version
-    					String type = contents_parse_split[a-1].substring(1);
-    					// Put the info together
-    					/**
-    					 * DUMMY TO FILL IN!
-    					 */
-    					if(type.equals("NNP") | type.equals("NN") | type.equals("NNS")){
-    						lines.add(contents_name_split[i]+" - "+"NN");
-    					}else if(type.equals("DT")){
-    						lines.add(contents_name_split[i]+" - "+"DET");
-    					}else{
-    						lines.add(contents_name_split[i]+" - "+type);
-    					}
-    					/**
-    					 * DUMMY TO FILL IN!
-    					 */
-    					// Mark the place, so we don´t search twice and leave
-    					counter = a;
-    					break;
-    				}
-    			}
-    		}
-    		// give back the info
-    		return lines;
-		}
 
         /**
          * Reads word-type + senses from an input OntoNote file and stores them into
@@ -212,13 +91,87 @@ public class DataReader{
                 return lines;
         }
 
+        public static List<String> readInventory_list(String file) {
+    		// init the list
+            List<String> lines = new ArrayList<String>();
+            // read the file
+            List<String> translator = new ArrayList<String>();
+            try (BufferedReader bReader = new BufferedReader(new FileReader(file))) {
+                    // until we reach the end-of-file
+                    while (bReader.ready()) {
+                            // a single line
+                            String line = bReader.readLine();
+                            // clean-up
+                            line = line.trim();
+                            //List<String> translator = new ArrayList<String>();
+                            if (!line.isEmpty()) {
+                            	if (line.startsWith("<sense group=")){
+                            		String[] sense_line = line.split(" ");
+                            		translator.add(sense_line[2].substring(3,4));
+                            	}else if(line.startsWith("<wn version=")){
+                            		String translate_line = line.replaceAll("<.*?>","");
+                            		translator.add(translate_line);
+                            	}
+                            }
+                    }
+            } catch (IOException ioe) {
+                    ioe.printStackTrace();
+            }
+            for (int i = 0; i < translator.size(); i++){
+            	if (i % 2 == 0) {
+            		lines.add(translator.get(i)+ " = " + translator.get(i+1));
+            	}
+            }
+            return lines;
+    }
+        
+        public static HashMap<String,String> readInventory_map(String file) {
+    		// init the list
+            HashMap<String,String> lines = new HashMap<String,String>();
+            // read the file
+            List<String> translator = new ArrayList<String>();
+            try (BufferedReader bReader = new BufferedReader(new FileReader(file))) {
+                    // until we reach the end-of-file
+                    while (bReader.ready()) {
+                            // a single line
+                            String line = bReader.readLine();
+                            // clean-up
+                            line = line.trim();
+                            //List<String> translator = new ArrayList<String>();
+                            if (!line.isEmpty()) {
+                            	if (line.startsWith("<sense group=")){
+                            		String[] sense_line = line.split(" ");
+                            		translator.add(sense_line[2].substring(3,4));
+                            	}else if(line.startsWith("<wn version=")){
+                            		String translate_line = line.replaceAll("<.*?>","");
+                            		translator.add(translate_line);
+                            	}
+                            }
+                    }
+            } catch (IOException ioe) {
+                    ioe.printStackTrace();
+            }
+            for (int i = 0; i < translator.size(); i++){
+            	if (i % 2 == 0) {
+            		lines.put(translator.get(i), translator.get(i+1));
+            	}
+            }
+            return lines;
+    }
+        
         
         public static void main(String[] args) {
 
-        	// YOU MIGHT WANT TO USE IT LIKE THIS.
+        	// YOU MIGHT WANT TO USE THE NEW STUFF LIKE THIS.
         	
         	List<String> test2 = readOntoNote5("C:\\Users\\Earthhorn\\Desktop\\test2.txt");
         	System.out.println(Arrays.toString(test2.toArray()));
+
+        	List<String> test4 = readInventory_list("C:\\Users\\Earthhorn\\Desktop\\sense-inventories\\abandon-v.xml");
+        	System.out.println(Arrays.toString(test4.toArray()));
+        	
+        	HashMap<String,String> test5 = readInventory_map("C:\\Users\\Earthhorn\\Desktop\\sense-inventories\\abandon-v.xml");
+        	System.out.println(test5);
         }
 
 }
