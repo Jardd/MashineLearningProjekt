@@ -1,19 +1,25 @@
 package wsd;
 
+import java.util.ArrayList;
+
 public class Sentence {
 	
 	private Word[] wordsInSentence;
-	private String[] words;
+	private ArrayList<String> words;
 
-	public Sentence(String sentence){
-		words=sentence.split(" ");
-		String wordklasses = null;
+	public Sentence(ArrayList<String> sentence,ArrayList<String> wordclasses){
+		//words=sentence.split(" ");
+		//String wordklasses = null;
+		wordsInSentence=new Word[sentence.size()];
 		
-		
-		for (int i = 0; i<words.length; i++){
-			Word w=new Word(words[i], wordklasses);
+		for (int i = 0; i<sentence.size(); i++){
+			Word w=new Word(sentence.get(i), wordclasses.get(i));
 			wordsInSentence[i]=w;
 		}
+//		System.out.println("saetz: ");
+//		for (Word w:wordsInSentence){
+//			System.out.print(w.getWordstring()+" ");
+//		}
 	}
 
 	public Word[] getWordsInSentence() {

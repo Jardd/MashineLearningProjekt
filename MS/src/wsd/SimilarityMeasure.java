@@ -5,10 +5,13 @@ package wsd;
 public class SimilarityMeasure {
 
 	
-	/*
+	private Sentence sentence;
+	/**
 	 * Constructor
 	 */
-	public SimilarityMeasure(String wordOne, String wordTwo){
+	public SimilarityMeasure(Sentence sentence){
+		this.sentence=sentence;
+		calculation(this.sentence);
 
 		
 	}
@@ -21,11 +24,13 @@ public class SimilarityMeasure {
 		for(Word w:sentence.getWordsInSentence()){
 			//Iterates over all Vertices
 			for(Vertice v:w.getVertices()){
+				//Iterates over all words in one sentence
 				for(Word word:sentence.getWordsInSentence()){
-					if(word !=w){
+					if(!word.equals(w)){//We dont want to compare a vertex to another vertex of the same word
 						Vertice[] compareVertice =word.getVertices();
 						for(Vertice cv:compareVertice){
 							Edge edge=new Edge(v,cv);
+							//System.out.println("edge value: "+edge.getValue());
 							v.setEdges(edge);
 						}
 					}	
