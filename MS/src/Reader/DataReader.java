@@ -165,12 +165,45 @@ public class DataReader{
                 return senses;
         }
         
+        /**
+         * A simple method to read the OntoNote data into a {@link List} of
+         * {@link String} objects. Each element in the list is a line of
+         * data from the source data file
+         *
+         * @param file the input file
+         * @return a {@link List} where each element is a line from the input
+         *      OntoNote file
+         */
+        public static List<String> readOntoNote5(String file) {
+        		// init the list
+                List<String> lines = new ArrayList<String>();
+                // read the file
+                try (BufferedReader bReader = new BufferedReader(new FileReader(file))) {
+                        // until we reach the end-of-file
+                        while (bReader.ready()) {
+                                // a single line
+                                String line = bReader.readLine();
+                                // clean-up
+                                line = line.trim();
+                                if (!line.isEmpty()) {
+                                		String[] line_split = line.split(" +");
+                                		String pos_tagged = line_split[3] + " - " + line_split[4];
+                                		lines.add(pos_tagged);
+                                }
+                        }
+                } catch (IOException ioe) {
+                        ioe.printStackTrace();
+                }
+                return lines;
+        }
+
+        
         public static void main(String[] args) {
 
         	// YOU MIGHT WANT TO USE IT LIKE THIS.
         	
-        	List<String> test = parseTheCorpus("C:\\Users\\Earthhorn\\Desktop\\test_cnn_parse.txt","C:\\Users\\Earthhorn\\Desktop\\test_cnn_names.txt");
-        	System.out.println(Arrays.toString(test.toArray()));
+        	List<String> test2 = readOntoNote5("C:\\Users\\Earthhorn\\Desktop\\test2.txt");
+        	System.out.println(Arrays.toString(test2.toArray()));
         }
 
 }
