@@ -64,25 +64,34 @@ public class DataReader{
                                 String line = bReader.readLine();
                                 // clean-up
                                 line = line.trim();
+                                // checks content
                                 if (!line.isEmpty()) {
+                                		// cuts up stuff
                                 		String[] line_split = line.split(" +");
+                                		// standard row for lemma
+                                		int lemma_row = 3;
+                                		// check non-standard
+                                		if (line_split[6].equals("-") != true){
+                                			lemma_row = 6;
+                                		}
                                 		/**
-                    					 * DUMMY TO FILL IN!
-                    					 */
+                                		* DUMMY TO FILL IN!
+                                		*/
+                                		// checks the type
                                 		String type = line_split[4];
-                    					if(type.equals("NNP") | type.equals("NN") | type.equals("NNS")){
-                    						lines.add(line_split[3] + " - " + "N");
-                    					}else if(type.equals("DT")){
-                    						lines.add(line_split[3] + " - " + "DET");
-                    					}else if(type.equals("VBP")){
-                    						lines.add(line_split[3] + " - " + "V");	
-                    					}else{
-                    						lines.add(line_split[3] + " - " +  type);
-                    					}
-                    					/**
-                    					 * DUMMY TO FILL IN!
-                    					 */
-
+                                		// changes types into common ones
+                                		if(type.equals("NNP") | type.equals("NN") | type.equals("NNS")){
+                                			lines.add(line_split[lemma_row] + " - " + "N");
+                                		}else if(type.equals("DT")){
+                                			lines.add(line_split[lemma_row] + " - " + "DET");
+                                		}else if(type.equals("VBP")){
+                    					lines.add(line_split[lemma_row] + " - " + "V");	
+                                		}else{
+                                			lines.add(line_split[lemma_row] + " - " +  type);
+                                		}
+                                		/**
+                                		* DUMMY TO FILL IN!
+                                		*/
                                 }
                         }
                 } catch (IOException ioe) {
@@ -103,11 +112,13 @@ public class DataReader{
                             String line = bReader.readLine();
                             // clean-up
                             line = line.trim();
-                            //List<String> translator = new ArrayList<String>();
+                            // check content
                             if (!line.isEmpty()) {
+                            	// search for information
                             	if (line.startsWith("<sense group=")){
                             		String[] sense_line = line.split(" ");
                             		translator.add(sense_line[2].substring(3,4));
+                            	// search for information part II
                             	}else if(line.startsWith("<wn version=")){
                             		String translate_line = line.replaceAll("<.*?>","");
                             		translator.add(translate_line);
@@ -117,6 +128,7 @@ public class DataReader{
             } catch (IOException ioe) {
                     ioe.printStackTrace();
             }
+            // process information
             for (int i = 0; i < translator.size(); i++){
             	if (i % 2 == 0) {
             		lines.add(translator.get(i)+ " = " + translator.get(i+1));
@@ -139,9 +151,11 @@ public class DataReader{
                             line = line.trim();
                             //List<String> translator = new ArrayList<String>();
                             if (!line.isEmpty()) {
+                            	// search info
                             	if (line.startsWith("<sense group=")){
                             		String[] sense_line = line.split(" ");
                             		translator.add(sense_line[2].substring(3,4));
+                            	// search info II
                             	}else if(line.startsWith("<wn version=")){
                             		String translate_line = line.replaceAll("<.*?>","");
                             		translator.add(translate_line);
@@ -151,6 +165,7 @@ public class DataReader{
             } catch (IOException ioe) {
                     ioe.printStackTrace();
             }
+            // complete info
             for (int i = 0; i < translator.size(); i++){
             	if (i % 2 == 0) {
             		lines.put(translator.get(i), translator.get(i+1));
