@@ -13,7 +13,7 @@ import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import dataExtraction.DataReader;
+import reader.DataReader;
 
 	
 public class Execute {
@@ -21,7 +21,7 @@ public class Execute {
 	private File file;
 	private FileWriter writer;
 	private ArrayList<Sentence> sentences=new ArrayList<Sentence>();
-	private ArrayList<String> functionWords=new ArrayList<String>();
+	private static ArrayList<String> functionWords=new ArrayList<String>();
 	
 	public Execute(List<String> text){
 		setFunctionWords("FunctionWordsEnglish\\EnglishAuxiliaryVerbs.txt");
@@ -49,6 +49,16 @@ public class Execute {
 				//System.out.println("in for w get words in sentence");
 				if(getBestSense(w)!=null){//is null if no sense was found for this word
 					writeInFile(getBestSense(w));
+				}else{
+					//System.out.println("in else");
+					writer.write(w.getWordstring());
+					//System.out.println(w.getWordstring());
+					writer.write("\t");
+					writer.write("-");
+					//System.out.println(bestSense.getIndex().toString());
+					writer.write("\n");
+					writer.flush();
+					
 				}
 				
 			}
@@ -65,7 +75,12 @@ public class Execute {
 	}
 	
 	
-	public ArrayList<String> getFunctionWords() {
+	public void setFunctionWords(ArrayList<String> functionWords) {
+		this.functionWords = functionWords;
+	}
+
+
+	public static ArrayList<String> getFunctionWords() {
 		return functionWords;
 	}
 
@@ -100,10 +115,10 @@ public class Execute {
 	//Text einlesen. 
 	//Satz für Satz
 	public void makeSentences(List<String> text){
-	//	System.out.println("in macesentence");
+		//System.out.println("in macesentence");
 		
 		//Text= [wort-wortart,...,...]
-		Pattern p=Pattern.compile(".*- CODE");
+		Pattern p=Pattern.compile(".*- \\.");
 		ArrayList<String> tmpSentence=new ArrayList<String>();
 		ArrayList<String> words=new ArrayList<String>();
 		ArrayList<String> wordclasses=new ArrayList<String>();
@@ -118,18 +133,18 @@ public class Execute {
 				//fertigen satz(String) in wort und wortarten teilen
 				for(String s:tmpSentence){
 					String[] tmp=s.split(" - ");
-					if(functionWords.contains(tmp[0])==false){//Nur wenn es kein Funktionswort ist soll es verarbeitet werden
+//					if(functionWords.contains(tmp[0])==false){//Nur wenn es kein Funktionswort ist soll es verarbeitet werden
 //						System.out.println(tmp[1].equalsIgnoreCase("n")||tmp[1].equalsIgnoreCase("v")/*("v||n")==true*/);
 //						System.out.println(tmp[1]);
 						
 						
-						if(tmp[0].startsWith("\'")==false&& (tmp[1].equalsIgnoreCase("n")||tmp[1].equalsIgnoreCase("v"))){
-							//System.out.println("in if add words and class");
+						//if(/*tmp[0].startsWith("\'")==false&&*/ (tmp[1].equalsIgnoreCase("n")||tmp[1].equalsIgnoreCase("v"))){
+							//System.out.println(tmp[0]);
 							words.add(tmp[0]);//Wort wird hinzugefuegt
 							wordclasses.add(tmp[1]);//Wortart wird hinzugefuegt
-						}
+						//}
 					
-					}
+//					}
 				}
 				//tmpSentenz wieder leeren, damit neuer sentence eingefuegt werden kann
 				tmpSentence=new ArrayList();
@@ -138,16 +153,16 @@ public class Execute {
 				this.sentences.add(sentence);
 				words=new ArrayList<String>();
 				wordclasses=new ArrayList<String>();
-				
+//				
 //				System.out.println("tmp sentence (sollte leer sein)"+tmpSentence.toString());
 //				System.out.println("Satz nummer :"+counter+" wurde erstellt");
-//				//System.out.println("make sentenze size: "+sentence.getWordsInSentence().length);
-				
+//				System.out.println("make sentenze size: "+sentence.getWordsInSentence().length);
+//				
 				
 			}else{
 				//System.out.println("in else");
 				//element satz hinzufügen
-				
+				System.out.println(wordAndWordclass);
 				tmpSentence.add(wordAndWordclass);
 				//System.out.println("tmp sentence :"+tmpSentence.toString());
 				
@@ -174,13 +189,19 @@ public class Execute {
 			}
 			
 		}
-		for(Word word:sentence.getWordsInSentence()){
-			for(Vertice v:word.getVertices()){
-				PageRank_2 pr=new PageRank_2(v);
-				pr.calculatePageRank();
+		for(int i=1; i<20;i++){//Abrruchkriterium
+		
+			for(Word word:sentence.getWordsInSentence()){
+				for(Vertice v:word.getVertices()){
+					PageRank_2 pr=new PageRank_2(v);
+				
+						pr.calculatePageRank();
+				
+				
 				//SSystem.out.println(v.getPageRank());
-			}
+				}
 			
+			}
 		}
 		
 	}
@@ -260,7 +281,7 @@ public class Execute {
 	}
 	
 	public static void main(String[] args){
-		List<String> text = DataReader.parseTheCorpus("Corpus\\test_cnn_parse.txt","Corpus\\test_cnn_names.txt");
+		List<String> text = reader.DataReader.readOntoNote5("Corpus\\test2.txt");
 		Execute execute=new Execute(text);
 	}
 

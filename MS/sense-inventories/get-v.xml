@@ -1,0 +1,314 @@
+<?xml version="1.0" ?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="get-v">
+   <commentary>
+     Contains duplicate WN mappings.
+   </commentary>
+   <sense group="1" n="1" name="Come into possession (by purchase or hearing), capture, receive, obtain, undergo" type="">
+      <commentary>
+      </commentary>
+      <examples>
+       Get permission to take a few days off from work.
+       I got nothing but trouble for my good intentions.
+       Get me those books over there, please.
+       Get an idea for a birthday party theme.
+       The Brazilian team got four goals.
+       We finally got the suspect.
+       He didn't get the joke.
+       "How to get the attention of unruly school children."
+       You cannot get water out of a stone.
+       What did you get at the toy store?
+       She didn't get his name when they first met.
+       Why should the president get hell for initiating a war?
+       He got five years in prison.
+       She got the mood just right in her photographs.
+       He got an insulin shock after eating too much candy.
+      </examples>
+      <mappings>
+         <wn version="3.0">1,4,6,7,9,11,17,19,18,21,22,23,24,25,30,35</wn>
+         <wn lemma="" version=""></wn>
+         <omega></omega><pb>get.01,get.02</pb>
+         <vn>get-13.5.1-1</vn><fn>Grasp</fn>
+      </mappings><SENSE_META clarity=""/>
+   </sense>
+ 
+   <sense group="1" n="2" name="Catch, come down with" type="">
+      <commentary>
+      </commentary>
+      <examples>
+       I got funny spots all over my body.
+       She got a cold from John.
+      </examples>
+      <mappings>
+         <wn version="3.0">12,13</wn>
+         <wn lemma="" version=""></wn>
+         <omega></omega><pb>NM</pb>
+         <vn>convert-26.6.2</vn><fn>Getting</fn>
+      </mappings><SENSE_META clarity=""/>
+   </sense>
+
+   <sense group="1" n="3" name="Become, enter a state, cause" type="">
+      <commentary>
+      </commentary>
+      <examples>
+       It must be getting more serious.
+       He got his squad on the ball.
+       The children finally got me to buy a computer.
+       You don't wanna get me mad.
+       His lying really gets me.
+       Brahms' "Requiem" gets me every time.
+       "Got me!  I don't know the answer."
+       Get working as soon as the sun rises.
+       He got his arm broken in the scuffle.
+      </examples>
+      <mappings>
+         <wn version="3.0">2,3,10,15,28,29,33,34,35</wn>
+         <wn lemma="" version=""></wn>
+         <omega></omega><pb>get.03,get.04</pb>
+         <vn>convert-26.6.2</vn><fn>Becoming</fn>        
+      </mappings><SENSE_META clarity=""/>
+   </sense>
+   <sense group="1" n="4" name="Arrive at, reach" type="">
+      <commentary>
+      </commentary>
+      <examples>
+       She didn't get to Chicago until after midnight.
+       What are you getting at?
+       What do you get when you add these numbers?
+       She got the bus just as it was leaving.
+      </examples>
+      <mappings>
+         <wn version="3.0">5,16,20,27</wn>
+         <wn lemma="" version=""></wn>
+         <omega></omega><pb>get.05</pb>
+         <vn></vn><fn>Arriving</fn>
+      </mappings><SENSE_META clarity=""/>
+   </sense>
+   <sense group="1" n="5" name="Pay back, get revenge" type="">
+      <commentary>
+        Includes: GET BACK
+      </commentary>
+      <examples>
+       We'll get them for this!
+       This time I got him!
+      </examples>
+      <mappings>
+         <wn version="3.0">8</wn>
+         <wn lemma="get_back" version="3.0">2,3</wn>
+         <omega></omega><pb>NM</pb>
+         <vn>NM</vn><fn>NM</fn>
+      </mappings><SENSE_META clarity=""/>
+   </sense>
+<sense group="1" n="6" name="communicate with person or place" type="">
+      <commentary>
+      </commentary>
+      <examples>
+       Bill called this number and he got Mary.
+       The operator couldn't get Kobe because of the earthquake.
+      </examples>
+      <mappings>
+         <wn version="3.0">14</wn>
+         <wn lemma="" version=""></wn>
+         <omega></omega><pb>NM</pb>
+         <vn>NM</vn><fn>NM</fn>
+      </mappings><SENSE_META clarity=""/>
+   </sense>
+<sense group="1" n="7" name="Command to scram or buzz off" type="">
+      <commentary>
+       Note: usually used in the imperative form
+      </commentary>
+      <examples>
+       "Get!"
+      </examples>
+      <mappings>
+         <wn version="3.0">26</wn>
+         <wn lemma="" version=""></wn>
+         <omega></omega><pb>NM</pb>
+         <vn>NM</vn><fn>NM</fn>
+      </mappings><SENSE_META clarity=""/>
+   </sense>
+<sense group="1" n="8" name="Baseball - earn or achieve a base by walk" type="">
+      <commentary>
+      </commentary>
+      <examples>
+       Almost all batters strike out more than they get a base on balls.
+      </examples>
+      <mappings>
+         <wn version="3.0">31</wn>
+         <wn lemma="" version=""></wn>
+         <omega></omega><pb>NM</pb>
+         <vn>NM</vn><fn>NM</fn>
+      </mappings><SENSE_META clarity=""/>
+   </sense>
+<sense group="1" n="9" name="Overcome or destroy" type="">
+      <commentary>
+      </commentary>
+      <examples>
+       The cat got my goldfish.
+       The ice storm got my flowers.
+      </examples>
+      <mappings>
+         <wn version="3.0">32</wn>
+         <wn lemma="" version=""></wn>
+         <omega></omega><pb>NM</pb>
+         <vn>NM</vn><fn>NM</fn>
+      </mappings><SENSE_META clarity=""/>
+   </sense>
+<sense group="1" n="10" name="Engender, sire, mother or father" type="">
+      <commentary>
+       Note: akin to 'beget'
+      </commentary>
+      <examples>
+       No examples found
+      </examples>
+      <mappings>
+         <wn version="3.0">36</wn>
+         <wn lemma="" version=""></wn>
+         <omega></omega><pb>NM</pb>
+         <vn>NM</vn><fn>NM</fn>
+      </mappings><SENSE_META clarity=""/>
+   </sense>
+<sense group="1" n="11" name="VPC/multiword expression" type="vpc">
+      <commentary>
+        NOTE: Due to the incredible number of vpc/mwe entries,
+        example sentences will not be given, but the 
+        phrases will simply be listed.
+        Many of these overlap with the above senses.  That's okay.
+      </commentary>
+      <examples>
+       get_a_line
+       get_a_load
+       get_a_look
+       get_a_noseful
+       get_a_whiff
+       get_about
+       get_across
+       get_ahead
+       get_along
+       get_along_with
+       get_around
+       get_around_to
+       get_at
+       get_away
+       get_back
+       get_behind
+       get_by
+       get_cracking
+       get_down
+       get_dressed
+       get_even
+       get_going
+       get_hitched_with
+       get_hold
+       get_hold_of
+       get_in
+       get_in_touch
+       get_into
+       get_it
+       get_it_on
+       get_laid
+       get_married
+       get_moving
+       get_off
+       get_off_the_ground
+       get_on
+       get_on_with
+       get_one's_lumps
+       get_onto
+       get_out
+       get_over
+       get_rid_of
+       get_rolling
+       get_started
+       get_stuck
+       get_the_best
+       get_the_better_of
+       get_the_goods
+       get_the_hang
+       get_the_jump
+       get_the_picture
+       get_through
+       get_to
+       get_to_grips
+       get_together
+       get_under_one's_skin
+       get_up
+       get_weaving
+       get_well
+       get_wind
+       get_wise
+       get_word
+       get_worse
+      </examples>
+      <mappings>
+         <wn version="3.0"></wn>
+         <wn lemma="get_a_line" version="3.0">1</wn>
+         <wn lemma="get_a_load" version="3.0">1</wn>
+         <wn lemma="get_a_look" version="3.0">1</wn>
+         <wn lemma="get_a_nosefull" version="3.0">1</wn>
+         <wn lemma="get_a_whiff" version="3.0">1</wn>
+         <wn lemma="get_about" version="3.0">1</wn>
+         <wn lemma="get_across" version="3.0">1,2,3</wn>
+         <wn lemma="get_ahead" version="3.0">1,2</wn>
+         <wn lemma="get_along" version="3.0">1,2,3</wn>
+         <wn lemma="get_along_with" version="3.0">1</wn>
+         <wn lemma="get_around" version="3.0">1,2,3,4</wn>
+         <wn lemma="get_around_to" version="3.0">1</wn>
+         <wn lemma="get_at" version="3.0">1,2,3</wn>
+         <wn lemma="get_away" version="3.0">1,2,3</wn>
+         <wn lemma="get_back" version="3.0">1,2,3,4</wn>
+         <wn lemma="get_behind" version="3.0">1</wn>
+         <wn lemma="get_by" version="3.0">1,2,3</wn>
+         <wn lemma="get_cracking" version="3.0">1</wn>
+         <wn lemma="get_down" version="3.0">1,2,3,4,5,6,7</wn>
+         <wn lemma="get_dressed" version="3.0">1</wn>
+         <wn lemma="get_even" version="3.0">1,2</wn>
+         <wn lemma="get_going" version="3.0">1,2</wn>
+         <wn lemma="get_hitched_with" version="3.0">1</wn>
+         <wn lemma="get_hold" version="3.0">1</wn>
+         <wn lemma="get_hold_of" version="3.0">1,2,3</wn>
+         <wn lemma="get_in" version="3.0">1,2,3,4,5</wn>
+         <wn lemma="get_in_touch" version="3.0">1</wn>
+         <wn lemma="get_into" version="3.0">1,2,3,4,5</wn>
+         <wn lemma="get_it" version="3.0">1,2</wn>
+         <wn lemma="get_it_on" version="3.0">1</wn>
+         <wn lemma="get_laid" version="3.0">1</wn>
+         <wn lemma="get_married" version="3.0">1</wn>
+         <wn lemma="get_moving" version="3.0">1</wn>
+         <wn lemma="get_off" version="3.0">1,2,3,4,5,6,7,8,9,10,11</wn>
+         <wn lemma="get_off_the_ground" version="3.0">1</wn>
+         <wn lemma="get_on" version="3.0">1,2,3,4,5,6,7</wn>
+         <wn lemma="get_on_with" version="3.0">1</wn>
+         <wn lemma="get_one's_lumps" version="3.0">1</wn>
+         <wn lemma="get_onto" version="3.0">1</wn>
+         <wn lemma="get_out" version="3.0">1,2,3,4,5,6,7</wn>
+         <wn lemma="get_over" version="3.0">1,2,3,4</wn>
+         <wn lemma="get_rid_of" version="3.0">1,2,3</wn>
+         <wn lemma="get_rolling" version="3.0">1</wn>
+         <wn lemma="get_started" version="3.0">1</wn>
+         <wn lemma="get_stuck" version="3.0">1</wn>
+         <wn lemma="get_the_best" version="3.0">1</wn>
+         <wn lemma="get_the_better_of" version="3.0">1</wn>
+         <wn lemma="get_the_goods" version="3.0">1</wn>
+         <wn lemma="get_the_hang" version="3.0">1</wn>
+         <wn lemma="get_the_jump" version="3.0">1</wn>
+         <wn lemma="get_the_picture" version="3.0">1</wn>
+         <wn lemma="get_through" version="3.0">1,2,3,4,5</wn>
+         <wn lemma="get_to" version="3.0">1,2,3</wn> 
+         <wn lemma="get_to_grips" version="3.0">1</wn>
+         <wn lemma="get_together" version="3.0">1,2,3,4</wn>
+         <wn lemma="get_under_one's_skin" version="3.0">1</wn>
+         <wn lemma="get_up" version="3.0">1,2,3,4,5,6,7,8</wn>
+         <wn lemma="get_weaving" version="3.0">1</wn>
+         <wn lemma="get_well" version="3.0">1</wn>
+         <wn lemma="get_wind" version="3.0">1</wn>
+         <wn lemma="get_wise" version="3.0">1</wn>
+         <wn lemma="get_word" version="3.0">1</wn>
+         <wn lemma="get_worse" version="3.0">1</wn>
+        <omega></omega><pb>get.07,get.08,get.09,get.10,get.11,get.12,get.13,get.14,get.15,get.16</pb>
+        <vn>NM</vn><fn>NM</fn>
+      </mappings><SENSE_META clarity=""/>
+   </sense>
+   <WORD_META authors="vieweg,duffielc,greenlm" sample_score="-"/>
+</inventory>
+ 

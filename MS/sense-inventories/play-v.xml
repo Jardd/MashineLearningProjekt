@@ -1,0 +1,202 @@
+<?xml version="1.0" ?><!DOCTYPE inventory  SYSTEM 'inventory.dtd'><inventory lemma="play-v">
+   <commentary>
+   </commentary>
+   <sense group="1" n="1" name="engage in a fun or recreational (childlike) activity" type="">
+      <commentary>
+      </commentary>
+      <examples>
+         The children are playing across the street.
+         Life is short, play hard.
+         Let's play hide-and-seek.
+         My dog likes to play 'keep away' with his ball.
+      </examples>
+      <mappings>
+         <wn version="3.0">5,11,12</wn>
+         <omega/><pb>play.01</pb>
+         <vn>meet-36.3-1</vn><fn/>
+      </mappings><SENSE_META clarity=""/>
+   </sense>
+   <sense group="1" n="2" name="engage in or make moves related to competition or sport" type="">
+      <commentary>
+        Syntax Is: NP1[agent] PLAY NP2[patient]
+      </commentary>
+      <examples>
+         They played cards far into the night.
+         Do you want to play tennis with me tomorrow?
+         Princeton plays Yale this weekend.
+         The Democrats still have a couple of cards to play before November.
+         She played a good backhand last night.
+         The grand master played a spectacular opening in the first game of the chess tournament.
+         They'll be playing the new catcher in tonight's game.
+         Defense attorneys and the accused inevitably played the pity card.
+      </examples>
+      <mappings>
+         <wn version="3.0">1,15,31,32,33,34</wn>
+         <omega/><pb>play.01</pb>
+         <vn>performance-26.7-1-1</vn><fn>Competition</fn>
+      </mappings><SENSE_META clarity=""/>
+   </sense>
+   <sense group="1" n="3" name="behave in a certain way; have a specific effect or outcome" type="">
+      <commentary>
+        Syntax Is: NP1 PLAY NP2[patient[abstract]]
+        NOTE: compare carefully to sense 5; this sense does not refer to 
+              acting or pretending (despite example 1, of &quot;playing a role, playing a part&quot;
+              which refers to being a factor, cause, or responsible party
+              in a particular event)
+      </commentary>
+      <examples>
+         Money is playing a big role in his decision to take the job.
+         That boy played no part in the vandalism.
+         I think we should play it safe.
+         She wasn't playing fair during the custody battle.
+         Storms play havoc with New England phone services.
+      </examples>
+      <mappings>
+         <wn version="3.0">2,17,27</wn>
+         <omega/><pb>play.02</pb>
+         <vn>NM</vn><fn>Performers_and_roles</fn>
+      </mappings><SENSE_META clarity=""/>
+   </sense>
+   <sense group="1" n="4" name="perform or transmit music" type="">
+      <commentary>
+      </commentary>
+      <examples>
+         The band played all night long.
+         The radio is playing my favorite song.
+         She played some very difficult Beethoven at the recital.
+         Can you play the guitar?
+         Can you play my favorite record?
+         The stereo was playing chidren's song when I arrived.
+      </examples>
+      <mappings>
+         <wn version="3.0">3,6,7,13,18</wn>
+         <omega/><pb>play.01</pb>
+         <vn>performance-26.7-1-1</vn><fn>Cause_to_make_noise,Performers_and_roles</fn>
+      </mappings><SENSE_META clarity=""/>
+   </sense>
+   <sense group="1" n="5" name="perform/act a role, pretend" type="">
+      <commentary>
+      </commentary>
+      <examples>
+         He usually plays a villain in films.
+         She plays the lead in Evita.
+         The show only played three nights before closing.
+         Can your dog play dead?
+         Banderas was also very good playing the innocent and helpless man.
+      </examples>
+      <mappings>
+         <wn version="3.0">4,8,14,25,26</wn>
+         <omega/><pb>play.02</pb>
+         <vn>NM</vn><fn>Performance_and_roles</fn>
+      </mappings><SENSE_META clarity=""/>
+   </sense>
+   <sense group="1" n="6" name="wager, bet" type="">
+      <commentary>
+      </commentary>
+      <examples>
+         He used to play the ponies a lot.
+         They played the casinos every night in Las Vegas.
+         I'd play my money on the horse from Tennessee.
+      </examples>
+      <mappings>
+         <wn version="3.0">10,29,30</wn>
+         <omega/><pb>NM</pb>
+         <vn>NM</vn><fn>NM</fn>
+      </mappings><SENSE_META clarity=""/>
+   </sense>
+   <sense group="1" n="7" name="toy, fiddle, or trifle with; act without the expected seriousness" type="">
+      <commentary>
+         Note: this sense implies a certain lack of seriousness.
+      </commentary>
+      <examples>
+         He plays the stockmarket a little on the side.
+         She really knows how to play on their emotions, doesn't she?
+         She has played with the idea of starting a dating service.
+         Stop playing with me!
+         That's as dangerous as playing with fire!
+         Stop playing with your keychain!
+         I've played with that idea for a long time.
+      </examples>
+      <mappings>
+         <wn version="3.0">16,19,20,21,23</wn>
+         <omega/><pb>NM</pb>
+         <vn>NM</vn><fn>NM</fn>
+      </mappings><SENSE_META clarity=""/>
+   </sense>
+   <sense group="1" n="8" name="be interpreted or received" type="">
+      <commentary>
+      </commentary>
+      <examples>
+         That campaign speech won't play well in Peoria.
+      </examples>
+      <mappings>
+         <wn version="3.0">22</wn>
+         <omega/><pb>NM</pb>
+         <vn>NM</vn><fn>NM</fn>
+      </mappings><SENSE_META clarity=""/>
+   </sense>
+   <sense group="1" n="9" name="move freely (usually within a bounded space)" type="">
+      <commentary>
+      </commentary>
+      <examples>
+         I think this steering wheel is playing too much.
+         The city lights played over the still waters.
+         The spotlights played on the politicians.
+      </examples>
+      <mappings>
+         <wn version="3.0">9,24</wn>
+         <omega/><pb>NM</pb>
+         <vn>NM</vn><fn>NM</fn>
+      </mappings><SENSE_META clarity=""/>
+   </sense>
+   <sense group="1" n="10" name="run or operate" type="">
+      <commentary>
+      </commentary>
+      <examples>
+         The fountains played all day.
+      </examples>
+      <mappings>
+         <wn version="3.0">28</wn>
+         <omega/><pb>NM</pb>
+         <vn>NM</vn><fn>NM</fn>
+      </mappings><SENSE_META clarity=""/>
+   </sense>
+   <sense group="1" n="11" name="FISHING-exhaust by allowing to pull on the line" type="">
+      <commentary>
+      </commentary>
+      <examples>
+         John knows how to play a hooked fish.
+      </examples>
+      <mappings>
+         <wn version="3.0">35</wn>
+         <omega/><pb>NM</pb>
+         <vn>NM</vn><fn>NM</fn>
+      </mappings><SENSE_META clarity=""/>
+   </sense>
+   <sense group="1" n="12" name="VERB PARTICLE CONSTRUCTIONS" type="vpc">
+      <commentary>
+        Includes:
+        PLAY ALONG
+        PLAY AROUND
+        PLAY BACK
+        PLAY DOWN
+        PLAY OFF
+        PLAY OUT
+        PLAY UP
+        PLAY A JOKE ON
+        PLAY A TRICK ON
+        PLAY FALSE
+        PLAY HOOKY
+        PLAY IT BY EAR
+        PLAY POSSUM
+      </commentary>
+      <examples>
+      </examples>
+      <mappings>
+         <wn version="3.0"/>
+         <omega/><pb>play.03,play.04,play.05</pb>
+         <vn>NM</vn><fn>Compliance</fn>
+      </mappings><SENSE_META clarity=""/>
+   </sense>
+   <WORD_META authors="ahouston,hwangd,duffielc,brownsw,greenlm" sample_score="-"/>
+</inventory>

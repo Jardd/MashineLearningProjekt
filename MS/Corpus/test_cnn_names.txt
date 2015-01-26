@@ -1,0 +1,28 @@
+<DOC DOCNO="bc/cnn/00/cnn_0001@0001@cnn@bc@en@on">
+[Larry] <ENAMEX TYPE="DATE">Sunday</ENAMEX> the interview with <ENAMEX TYPE="PERSON">Bob Shapiro</ENAMEX> /.
+[Larry] <ENAMEX TYPE="WORK_OF_ART">Newsnight</ENAMEX> returns to duo action <ENAMEX TYPE="TIME">tonight</ENAMEX> /.
+[Larry] The co-hosts are <ENAMEX TYPE="PERSON">Kira Phillips</ENAMEX> and <ENAMEX TYPE="PERSON">Rick Sanchez</ENAMEX> /.
+[Larry] -LAB-disfluency-RAB- Th- -LAB-/disfluency-RAB- that 's <ENAMEX TYPE="PERSON">Rick</ENAMEX> on the left <ENAMEX TYPE="PERSON">Kira</ENAMEX> on the right /.
+[Larry] and they are in <ENAMEX TYPE="GPE">Atlanta</ENAMEX> /.
+[Kyra_Phillips] Double trouble /.
+[Rick_Sanchez] -LAB-disfluency-RAB- Watch for the -- -LAB-/disfluency-RAB- watch for the dolphins <ENAMEX TYPE="PERSON">Larry</ENAMEX> /.
+[Larry] Carry on /.
+[Rick_Sanchez] -LAB-disfluency-RAB- I 'm tel- -- -LAB-/disfluency-RAB- I 'm told this guy in <ENAMEX TYPE="GPE">Miami</ENAMEX> -LAB-uncertain-RAB- saving -LAB-/uncertain-RAB- is -LAB-uncertain-RAB- schula-esque -LAB-/uncertain-RAB- your friend /.
+[Larry] Yeah -LAB-disfluency-RAB- we- -LAB-/disfluency-RAB- not this year though /.
+[Rick_Sanchez] Well it might take <ENAMEX TYPE="DATE">a year</ENAMEX> /.
+[Rick_Sanchez] Good to talk -LAB-unintelligible-RAB- /.
+[Larry] Go get them /.
+[Larry] Bye /.
+[Rick_Sanchez] Alright /.
+[Kyra_Phillips] Thanks <ENAMEX TYPE="PERSON">Larry</ENAMEX> /.
+[Kyra_Phillips] Well <ENAMEX TYPE="TIME">tonight</ENAMEX> a <ENAMEX TYPE="ORG">Wal - Mart</ENAMEX> controversy /.
+[Kyra_Phillips] Good <ENAMEX TYPE="TIME">evening</ENAMEX> I 'm <ENAMEX TYPE="PERSON">Kyra Phillips</ENAMEX> /.
+[Rick_Sanchez] And I 'm <ENAMEX TYPE="PERSON">Rick Sanchez</ENAMEX> /.
+[Rick_Sanchez] <ENAMEX TYPE="WORK_OF_ART">Newsnight</ENAMEX> begins right now /.
+[Announcer] <ENAMEX TYPE="TIME">Tonight</ENAMEX> every story has <ENAMEX TYPE="CARDINAL">two</ENAMEX> sides /.
+[Announcer] In <ENAMEX TYPE="ORG">Wal - Mart</ENAMEX> 's case both sides are being beamed onto big screens everywhere /.
+[Unidentified_Male] <ENAMEX TYPE="CARDINAL">One point three million</ENAMEX> people in <ENAMEX TYPE="GPE">America</ENAMEX> have decided it 's in their best self interest to work at <ENAMEX TYPE="ORG">Wal - Mart</ENAMEX> /.
+[Unidentified_Male] Now are they stupid /?
+[Unidentified_Male] No /.
+[Unidentified_Male_2] I keep saying you ca n't buy small town quality of life at a <ENAMEX TYPE="ORG">Wal - Mart</ENAMEX> because they do n't sell it /.
+</DOC>

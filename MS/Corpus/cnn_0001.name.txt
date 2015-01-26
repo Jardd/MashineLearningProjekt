@@ -1,0 +1,708 @@
+<DOC DOCNO="bc/cnn/00/cnn_0001@0001@cnn@bc@en@on">
+[Larry] <ENAMEX TYPE="DATE">Sunday</ENAMEX> the interview with <ENAMEX TYPE="PERSON">Bob Shapiro</ENAMEX> /.
+[Larry] <ENAMEX TYPE="WORK_OF_ART">Newsnight</ENAMEX> returns to duo action <ENAMEX TYPE="TIME">tonight</ENAMEX> /.
+[Larry] The co-hosts are <ENAMEX TYPE="PERSON">Kira Phillips</ENAMEX> and <ENAMEX TYPE="PERSON">Rick Sanchez</ENAMEX> /.
+[Larry] -LAB-disfluency-RAB- Th- -LAB-/disfluency-RAB- that 's <ENAMEX TYPE="PERSON">Rick</ENAMEX> on the left <ENAMEX TYPE="PERSON">Kira</ENAMEX> on the right /.
+[Larry] and they are in <ENAMEX TYPE="GPE">Atlanta</ENAMEX> /.
+[Kyra_Phillips] Double trouble /.
+[Rick_Sanchez] -LAB-disfluency-RAB- Watch for the -- -LAB-/disfluency-RAB- watch for the dolphins <ENAMEX TYPE="PERSON">Larry</ENAMEX> /.
+[Larry] Carry on /.
+[Rick_Sanchez] -LAB-disfluency-RAB- I 'm tel- -- -LAB-/disfluency-RAB- I 'm told this guy in <ENAMEX TYPE="GPE">Miami</ENAMEX> -LAB-uncertain-RAB- saving -LAB-/uncertain-RAB- is -LAB-uncertain-RAB- schula-esque -LAB-/uncertain-RAB- your friend /.
+[Larry] Yeah -LAB-disfluency-RAB- we- -LAB-/disfluency-RAB- not this year though /.
+[Rick_Sanchez] Well it might take <ENAMEX TYPE="DATE">a year</ENAMEX> /.
+[Rick_Sanchez] Good to talk -LAB-unintelligible-RAB- /.
+[Larry] Go get them /.
+[Larry] Bye /.
+[Rick_Sanchez] Alright /.
+[Kyra_Phillips] Thanks <ENAMEX TYPE="PERSON">Larry</ENAMEX> /.
+[Kyra_Phillips] Well <ENAMEX TYPE="TIME">tonight</ENAMEX> a <ENAMEX TYPE="ORG">Wal - Mart</ENAMEX> controversy /.
+[Kyra_Phillips] Good <ENAMEX TYPE="TIME">evening</ENAMEX> I 'm <ENAMEX TYPE="PERSON">Kyra Phillips</ENAMEX> /.
+[Rick_Sanchez] And I 'm <ENAMEX TYPE="PERSON">Rick Sanchez</ENAMEX> /.
+[Rick_Sanchez] <ENAMEX TYPE="WORK_OF_ART">Newsnight</ENAMEX> begins right now /.
+[Announcer] <ENAMEX TYPE="TIME">Tonight</ENAMEX> every story has <ENAMEX TYPE="CARDINAL">two</ENAMEX> sides /.
+[Announcer] In <ENAMEX TYPE="ORG">Wal - Mart</ENAMEX> 's case both sides are being beamed onto big screens everywhere /.
+[Unidentified_Male] <ENAMEX TYPE="CARDINAL">One point three million</ENAMEX> people in <ENAMEX TYPE="GPE">America</ENAMEX> have decided it 's in their best self interest to work at <ENAMEX TYPE="ORG">Wal - Mart</ENAMEX> /.
+[Unidentified_Male] Now are they stupid /?
+[Unidentified_Male] No /.
+[Unidentified_Male_2] I keep saying you ca n't buy small town quality of life at a <ENAMEX TYPE="ORG">Wal - Mart</ENAMEX> because they do n't sell it /.
+[Unidentified_Male_2] But once they steal it from you you ca n't get it back at any price /.
+[Announcer] Attention shoppers /.
+[Announcer] is <ENAMEX TYPE="ORG">Wal - Mart</ENAMEX> 's way the wave of the future /?
+[Announcer] And it 's a case of dueling realities /.
+[Announcer] A city brimming with hope in some places devoid of it in others /.
+[Announcer] <ENAMEX TYPE="GPE">New Orleans</ENAMEX> a tale of <ENAMEX TYPE="CARDINAL">two</ENAMEX> cities /.
+[Announcer] Also this man is a convicted murderer /.
+[Announcer] Why are there so many who want his life spared /?
+[Announcer] This is <ENAMEX TYPE="WORK_OF_ART">Newsnight</ENAMEX> /.
+[Rick_Sanchez] And we begin <ENAMEX TYPE="TIME">tonight</ENAMEX> with <ENAMEX TYPE="ORG">Wal - Mart</ENAMEX> a place no doubt many of you are likely to shop /.
+[Rick_Sanchez] When it comes to retail <ENAMEX TYPE="ORG">Wal - Mart</ENAMEX> is the biggest of the big /.
+[Rick_Sanchez] and that makes it a big target as well /.
+[Rick_Sanchez] Its corporate policies from buying cheap to selling cheap to providing jobs for <ENAMEX TYPE="CARDINAL">tens of thousands</ENAMEX> of people while paying rock bottom salaries are also reasons it 's a big target /.
+[Rick_Sanchez] In fact right now <ENAMEX TYPE="ORG">Wal - Mart</ENAMEX> is the subject of not <ENAMEX TYPE="CARDINAL">one</ENAMEX> but <ENAMEX TYPE="CARDINAL">two</ENAMEX> documentaries about to be released <ENAMEX TYPE="CARDINAL">one</ENAMEX> for <ENAMEX TYPE="CARDINAL">one</ENAMEX> against /.
+[Rick_Sanchez] <ENAMEX TYPE="CARDINAL">Two</ENAMEX> stories <ENAMEX TYPE="CARDINAL">one</ENAMEX> giant store here 's a look /.
+[Unidentified_Male] You drive up all the way up to <ENAMEX TYPE="GPE">New York City</ENAMEX> on <ENAMEX TYPE="FAC">Route 80</ENAMEX> /.
+[Unidentified_Male] and you 'll see a <ENAMEX TYPE="ORG">Wal - Mart</ENAMEX> up on the hill /.
+[Unidentified_Male] and then you 'll drive farther into the town /.
+[Unidentified_Male] and you 'll see uh an empty town /.
+[Unidentified_Male] Just looks like a neutron bomb hit it /.
+[Rick_Sanchez] It 's an explosive documentary that alleges <ENAMEX TYPE="ORG">Wal - Mart</ENAMEX> has a take no prisoners business philosophy that is good for profits but bad for <ENAMEX TYPE="GPE">America</ENAMEX> /.
+[Unidentified_Male_2] They do n't get it /.
+[Unidentified_Male_2] When we start talking about quality reliance they start talking about cheap underwear /.
+[Rick_Sanchez] At this point there 's something I should tell you /.
+[Rick_Sanchez] When you do a story on a film that 's as critical of a company as this one is about <ENAMEX TYPE="ORG">Wal - Mart</ENAMEX> I want to talk to that company <ENAMEX TYPE="ORG">Wal - Mart</ENAMEX> to get their reaction /.
+[Rick_Sanchez] <ENAMEX TYPE="ORG">Wal - Mart</ENAMEX> is not willing to go on camera /.
+[Rick_Sanchez] But it did provide us with a written statement saying quote like any company we want to make sure our associates customers and local community feel good about us /.
+[Rick_Sanchez] <ENAMEX TYPE="ORG">Wal - Mart</ENAMEX> makes life better for an awful lot of people by providing low prices and good jobs to those who need them /.
+[Rick_Sanchez] However we 're the <ENAMEX TYPE="ORDINAL">first</ENAMEX> to admit we 're not perfect and have worked hard to make substantive business changes in areas where we fall short /.
+[Unidentified_Male] <ENAMEX TYPE="ORG">Wal - Mart</ENAMEX> I think does n't do a good enough job telling its story /.
+[Rick_Sanchez] So who is speaking up for <ENAMEX TYPE="ORG">Wal - Mart</ENAMEX> /?
+[Rick_Sanchez] This man /.
+[Ron_Galloway] But uh <ENAMEX TYPE="ORG">Wal - Mart</ENAMEX> has closed some businesses down /.
+[Ron_Galloway] but it 's created others /.
+[Ron_Galloway] In fact /-
+[Rick_Sanchez] In fact <ENAMEX TYPE="PERSON">Ron Galloway</ENAMEX> is not only speaking up for the retail giant /.
+[Rick_Sanchez] he 's also producing a documentary in their defense one that depicts <ENAMEX TYPE="ORG">Wal - Mart</ENAMEX> as an ingenious business plan that is good for <ENAMEX TYPE="GPE">America</ENAMEX> /.
+[Unidentified_Female] So many people have so many negative things to say about it /.
+[Unidentified_Female] but what about the positive things /?
+[Rick_Sanchez] While <ENAMEX TYPE="PERSON">Galloway</ENAMEX> 's <ENAMEX TYPE="ORG">pro-Wal-Mart</ENAMEX> film introduces us to grateful employees /-
+[Unidentified_Female_2] Somebody did it for me at a time in my life when I was totally hopeless /.
+[Rick_Sanchez] the <ENAMEX TYPE="ORG">anti-Wal - mart</ENAMEX> film points out that in <ENAMEX TYPE="DATE">two thousand one</ENAMEX> according to court documents workers made on average <ENAMEX TYPE="MONEY">less than fourteen thousand dollars</ENAMEX> a year , that <ENAMEX TYPE="ORG">Wal - Mart</ENAMEX> 's ~CEO made <ENAMEX TYPE="MONEY">twenty - seven million dollars</ENAMEX> a year /.
+[Rick_Sanchez] It also revealed that the owners of <ENAMEX TYPE="ORG">Wal - Mart</ENAMEX> the <ENAMEX TYPE="PERSON">Walton</ENAMEX> family has an average net worth at or near <ENAMEX TYPE="MONEY">one hundred billion dollars</ENAMEX> give or take <ENAMEX TYPE="CARDINAL">a billion</ENAMEX> here or there depending on the price of their stock at the time /.
+[Rick_Sanchez] Now as for the workers or associates as they 're called by <ENAMEX TYPE="ORG">Wal - Mart</ENAMEX> their average salary is below what the government considers the federal poverty line /.
+[Unidentified_Male] There were people I 'd see that did n't eat nothing /.
+[Unidentified_Male] they 'd take <ENAMEX TYPE="TIME">an hour</ENAMEX> lunch and just sit there /.
+[Ron_Galloway] This young mother that I talked to in <ENAMEX TYPE="GPE">~LA</ENAMEX> was on <ENAMEX TYPE="ORG">Medi - Cal</ENAMEX> /.
+[Ron_Galloway] she got on the <ENAMEX TYPE="ORG">Wal - Mart</ENAMEX> plan /.
+[Ron_Galloway] she saw a doctor for the <ENAMEX TYPE="ORDINAL">first</ENAMEX> time /.
+[Rick_Sanchez] The <ENAMEX TYPE="ORG">anti-Wal-Mart</ENAMEX> film depicts <ENAMEX TYPE="ORG">Wal - Mart</ENAMEX> as consumed with keeping wages and benefits down and unions out by flying in executives and installing cameras to monitor employees as soon as there 's a hint that workers may be organizing /.
+[Rick_Sanchez] The retail giant gets most of its merchandise from outside the <ENAMEX TYPE="GPE">United States</ENAMEX> in places like <ENAMEX TYPE="GPE">Honduras</ENAMEX> and <ENAMEX TYPE="GPE">Bangladesh</ENAMEX> where according to the film workers make <ENAMEX TYPE="MONEY">as little as fifteen cents</ENAMEX> an hour and work <ENAMEX TYPE="DATE">seven days</ENAMEX> a week /.
+[Rick_Sanchez] but by far the largest provider of goods to <ENAMEX TYPE="ORG">Wal - Mart</ENAMEX> is <ENAMEX TYPE="GPE">China</ENAMEX> /.
+[Rick_Sanchez] How much does <ENAMEX TYPE="ORG">Wal - Mart</ENAMEX> depend on <ENAMEX TYPE="GPE">China</ENAMEX> /?
+[Rick_Sanchez] Company officials announced that in <ENAMEX TYPE="DATE">two thousand four</ENAMEX> they imported <ENAMEX TYPE="MONEY">more than eighteen billion dollars</ENAMEX> in goods from the <ENAMEX TYPE="GPE">People 's Republic</ENAMEX> /.
+[Ron_Galloway] I think <ENAMEX TYPE="ORG">Wal - Mart</ENAMEX> is a straw man for a set of issues that a certain group of people special interests groups have to deal with in <ENAMEX TYPE="NORP">American</ENAMEX> society /.
+[Rick_Sanchez] Now this is important /.
+[Rick_Sanchez] Officials making the anti -LAB-disfluency-RAB- warm- -LAB-/disfluency-RAB- uh <ENAMEX TYPE="ORG">Wal - Mart</ENAMEX> film say the film is not paid for with union dues /.
+[Rick_Sanchez] We asked /.
+[Rick_Sanchez] Also <ENAMEX TYPE="PERSON">Galloway</ENAMEX> making the <ENAMEX TYPE="ORG">pro-Wal-Mart</ENAMEX> film tells me that he 's received no money and little support in fact from <ENAMEX TYPE="ORG">Wal - Mart</ENAMEX> itself /.
+[Rick_Sanchez] In fact <ENAMEX TYPE="ORG">Wal - Mart</ENAMEX> has no plans at this time to even carry his video in the stores /.
+[Rick_Sanchez] <ENAMEX TYPE="PERSON">Kyra</ENAMEX> /?
+[Kyra_Phillips] Well whatever it does <ENAMEX TYPE="ORG">Wal - Mart</ENAMEX> always seems to be under a microscope /.
+[Kyra_Phillips] Why /?
+[Kyra_Phillips] Because a company that big that profitable is often imitated by other companies and that may well affect your benefits and your career /.
+[Kyra_Phillips] Take health care for example /.
+[Kyra_Phillips] A <ENAMEX TYPE="ORG">Wal - Mart</ENAMEX> internal memo recently leaked spelled out just how far the retail giant may be willing to go to keep its health costs low /.
+[Kyra_Phillips] The question is will other companies follow suit and how might that affect you /.
+[Kyra_Phillips] Here 's <ENAMEX TYPE="ORG">~CNN</ENAMEX> 's <ENAMEX TYPE="PERSON">Tom Foreman</ENAMEX> /.
+[Tom_Foreman] Out in the <ENAMEX TYPE="TIME">morning</ENAMEX> rush of <ENAMEX TYPE="GPE">Washington ~DC</ENAMEX> like <ENAMEX TYPE="CARDINAL">six</ENAMEX> out of <ENAMEX TYPE="CARDINAL">ten</ENAMEX> <ENAMEX TYPE="NORP">Americans</ENAMEX> <ENAMEX TYPE="PERSON">Tim Kane</ENAMEX> gets health insurance through his job /.
+[Tim_Kane] -LAB-disfluency-RAB- I -LAB-/disfluency-RAB- I think my hands are tied /.
+[Tim_Kane] -LAB-disfluency-RAB- I g- -- -LAB-/disfluency-RAB- I have to go through my employers /.
+[Tom_Foreman] But as an economist at the conservative <ENAMEX TYPE="ORG">Heritage</ENAMEX> foundation <ENAMEX TYPE="PERSON">Tim</ENAMEX> supports an idea that might put other commuters into shock /.
+[Tom_Foreman] Workplace health plans can be should be and may be going away /.
+[Tim_Kane] <ENAMEX TYPE="NORP">Americans</ENAMEX> should understand that they would be much better off if businesses were n't providing them health care if they could buy it on the free market cheaply /.
+[Tom_Foreman] This is controversial stuff /.
+[Tom_Foreman] <ENAMEX TYPE="ORG">Wal - Mart</ENAMEX> with <ENAMEX TYPE="CARDINAL">more than one point two million</ENAMEX> <ENAMEX TYPE="NORP">American</ENAMEX> workers is being criticized right now over a leaked company memo that suggests health care costs should be better contained /.
+[Tom_Foreman] <ENAMEX TYPE="ORG">Wal - Mart Watch</ENAMEX> is a new advocacy group funded in part by labor unions to keep an eye on how the economic giant is shaping <ENAMEX TYPE="NORP">American</ENAMEX> life /.
+[Andy_Grossman] I think that <ENAMEX TYPE="ORG">Wal - Mart</ENAMEX> <ENAMEX TYPE="DATE">today</ENAMEX> as we speak is attempting to change -LAB-disfluency-RAB- w- -LAB-/disfluency-RAB- uh health care for the <ENAMEX TYPE="NORP">American</ENAMEX> worker to the worse /.
+[Tom_Foreman] And you 're saying that affects all of us whether or not we work for <ENAMEX TYPE="ORG">Wal - Mart</ENAMEX> /.
+[Andy_Grossman] When <ENAMEX TYPE="ORG">Wal - Mart</ENAMEX> makes a change in the way they do their business um then other businesses follow /.
+[Tom_Foreman] <ENAMEX TYPE="ORG">Wal - Mart</ENAMEX> told us in a written statement it is expanding and improving its health insurance program /.
+[Tom_Foreman] but it adds every business is asking the question [Tom_Foreman] how do we balance the genuine desire to provide the best benefits while remaining competitive in the global economy /?
+[Tom_Foreman] That 's the catch /.
+[Tom_Foreman] The <ENAMEX TYPE="GPE">United States</ENAMEX> is a rarity among nations in firmly tying health insurance to jobs making it a cost of doing business /.
+[Tom_Foreman] So how did it get that way /?
+[Tom_Foreman] Blame it on <ENAMEX TYPE="EVENT">World War Two</ENAMEX> when fear of inflation prompted President <ENAMEX TYPE="PERSON">Roosevelt</ENAMEX> to freeze wages /.
+[Tom_Foreman] With so many <ENAMEX TYPE="NORP">Americans</ENAMEX> going to battle businesses were frantic for workers /.
+[Tom_Foreman] So instead of more money they offered health insurance /.
+[Tom_Foreman] Healthy employees are undeniably better for business better for society /.
+[Tom_Foreman] but is that <ENAMEX TYPE="ORG">Wal - Mart</ENAMEX> 's responsibility /?
+[Tom_Foreman] Look /.
+[Tom_Foreman] this is a private company /.
+[Tom_Foreman] What business is it of yours how they do their business /?
+[Tim_Kane] We the taxpayers are paying for <ENAMEX TYPE="ORG">Wal - Mart</ENAMEX> to profit /.
+[Tim_Kane] um -LAB-disfluency-RAB- and and -LAB-/disfluency-RAB- and so -LAB-disfluency-RAB- therefore -LAB-/disfluency-RAB- therefore we have a say /.
+[Tom_Foreman] And you believe that gives you a say /.
+[Tim_Kane] We 're stockholders /.
+[Tim_Kane] We 're shareholders in the company /.
+[Tom_Foreman] A study before <ENAMEX TYPE="ORG">Congress</ENAMEX> <ENAMEX TYPE="DATE">last year</ENAMEX> said <ENAMEX TYPE="CARDINAL">less than half</ENAMEX> of <ENAMEX TYPE="ORG">Wal - Mart</ENAMEX> employees were fully covered by the company insurance and that a significant number secure their health care from publicly subsidized programs /.
+[Tom_Foreman] <ENAMEX TYPE="PERSON">George Miller</ENAMEX> from <ENAMEX TYPE="GPE">California</ENAMEX> authored that report /.
+[George_Miller] I do n't think that <ENAMEX TYPE="ORG">Wal - Mart</ENAMEX> either has built an acceptable system for real health care for employees and they have n't really provided much to the national debate on how we can accomplish this -LAB-disfluency-RAB- as a -- -LAB-/disfluency-RAB- uh as a nation /.
+[Tom_Foreman] The debate over how workplace health insurance might fade and what might replace it is not just about <ENAMEX TYPE="ORG">Wal - Mart</ENAMEX> /.
+[Tim_Kane] And <ENAMEX TYPE="ORG">Wal - Mart</ENAMEX> 's trying to stay out of that mess /.
+[Tim_Kane] and it 's a very tricky problem /.
+[Tom_Foreman] But when a company that big even whispers change <ENAMEX TYPE="DATE">these days</ENAMEX> everyone listens /.
+[Kyra_Phillips] That was <ENAMEX TYPE="ORG">~CNN</ENAMEX> 's <ENAMEX TYPE="PERSON">Tom Foreman</ENAMEX> reporting /.
+[Kyra_Phillips] <ENAMEX TYPE="PERSON">Rick</ENAMEX> /?
+[Rick_Sanchez] And -LAB-disfluency-RAB- we c- we c- -LAB-/disfluency-RAB- we continue the theme now /.
+[Rick_Sanchez] <ENAMEX TYPE="PERSON">Andy Serwer</ENAMEX> works for us here at <ENAMEX TYPE="ORG">~CNN</ENAMEX> and for <ENAMEX TYPE="ORG">Fortune Magazine</ENAMEX> /.
+[Rick_Sanchez] <ENAMEX TYPE="PERSON">Andy</ENAMEX> 's <ENAMEX TYPE="CARDINAL">one</ENAMEX> of the few journalists who 's profiled the <ENAMEX TYPE="PERSON">Walton</ENAMEX> family /.
+[Rick_Sanchez] That 's why he 's the perfect guest to talk about <ENAMEX TYPE="ORG">Wal - Mart</ENAMEX> /.
+[Rick_Sanchez] <ENAMEX TYPE="PERSON">Andy</ENAMEX> -LAB-disfluency-RAB- th- -LAB-/disfluency-RAB- thanks so much for being with us again /.
+[Andy_Serwer] Good to see you /.
+[Rick_Sanchez] -LAB-disfluency-RAB- Y- -LAB-/disfluency-RAB- you know you wonder /.
+[Rick_Sanchez] You know the <ENAMEX TYPE="PERSON">Waltons</ENAMEX> /.
+[Rick_Sanchez] At what level will this affect them /?
+[Rick_Sanchez] They 're about to get hit with a whole lot of bad pub /.
+[Andy_Serwer] Well you know in some senses <ENAMEX TYPE="PERSON">Rick</ENAMEX> they 're used to it by now /.
+[Andy_Serwer] I mean this is a company that 's come under attack for really <ENAMEX TYPE="DATE">the past ten years</ENAMEX> in a big way from labor unions from people in small towns from people in big towns /.
+[Rick_Sanchez] But this time it 's going to be in churches /.
+[Rick_Sanchez] it 's going to be in small gathering places in middle <ENAMEX TYPE="GPE">America</ENAMEX> with people saying some pretty horrible things -LAB-disfluency-RAB- I- -LAB-/disfluency-RAB- /-
+[Rick_Sanchez] Do n't your feelings get hurt /.
+[Rick_Sanchez] or are they at a different level if your employees come out and say I ca n't feed my kids /.
+[Rick_Sanchez] I 'm not making enough money /.
+[Rick_Sanchez] you 're not giving me enough benefits /.
+[Rick_Sanchez] -LAB-disfluency-RAB- you 're -- -LAB-/disfluency-RAB- you 're not paying me for my overtime work /.
+[Andy_Serwer] Well I think the <ENAMEX TYPE="PERSON">Walton</ENAMEX> family does take it personally /.
+[Andy_Serwer] I mean their name is on the door /.
+[Andy_Serwer] Their father <ENAMEX TYPE="PERSON">Sam Walton</ENAMEX> started this company /.
+[Andy_Serwer] They do n't like the bad publicity /.
+[Andy_Serwer] but they also feel wronged /.
+[Andy_Serwer] They do n't believe a lot of the charges are true /.
+[Andy_Serwer] and they are really starting to fight back /.
+[Andy_Serwer] And we 're seeing articles describing how they 've really rallied and brought tremendous efforts to bear opening up offices in <ENAMEX TYPE="GPE">Washington</ENAMEX> and state capitals /.
+[Andy_Serwer] They have a war room where they review all the criticism /.
+[Andy_Serwer] and they try to respond now /.
+[Rick_Sanchez] But let me ask you this as I 'm sure people at home are -LAB-disfluency-RAB- th- -LAB-/disfluency-RAB- sitting there thinking right now about their own job /.
+[Rick_Sanchez] -LAB-disfluency-RAB- if W- -LAB-/disfluency-RAB- if <ENAMEX TYPE="ORG">Wal - Mart</ENAMEX> is right and their model is right is this the way we 're going to go /?
+[Rick_Sanchez] Will other workers feel like perhaps their compensation packages their wages are going to be perhaps either trimmed down or worse as they allude to in this documentary /?
+[Andy_Serwer] Well you 're talking about a race to the bottom in terms of compensation and benefits for <ENAMEX TYPE="NORP">American</ENAMEX> workers /.
+[Andy_Serwer] And you 're seeing this happening at <ENAMEX TYPE="ORG">Wal - Mart</ENAMEX> /.
+[Andy_Serwer] but you 're also seeing this happen at big manufacturing companies /.
+[Andy_Serwer] Do n't forget people at <ENAMEX TYPE="ORG">Delta</ENAMEX> people at <ENAMEX TYPE="ORG">~GM</ENAMEX> people at <ENAMEX TYPE="ORG">Delphi</ENAMEX> are getting their wages and salaries cut too and that does n't have anything to do with <ENAMEX TYPE="ORG">Wal - Mart</ENAMEX> /.
+[Andy_Serwer] Having said that <ENAMEX TYPE="ORG">Wal - Mart</ENAMEX> is the biggest employer in the country /.
+[Andy_Serwer] so they 're sort of the benchmark company the company that other companies look to like <ENAMEX TYPE="ORG">~GM</ENAMEX> in the past and like a <ENAMEX TYPE="ORG">~US Steel</ENAMEX> /.
+[Andy_Serwer] So I think other companies are looking at what -LAB-disfluency-RAB- Wal- -LAB-/disfluency-RAB- <ENAMEX TYPE="ORG">Wal - Mart</ENAMEX> is doing and saying you know , what is the new wage and pay scale in this country /?
+[Rick_Sanchez] But <ENAMEX TYPE="ORG">Wal - Mart</ENAMEX> is really the king of the bottom line , are n't they /?
+[Andy_Serwer] They are /.
+[Rick_Sanchez] They really know how to make things out of nothing /.
+[Rick_Sanchez] and the person who 's really benefiting is the consumer who goes in there and gets -LAB-disfluency-RAB- a -LAB-/disfluency-RAB- a sweater -LAB-disfluency-RAB- for for -LAB-/disfluency-RAB- for <ENAMEX TYPE="MONEY">four bucks</ENAMEX> /.
+[Andy_Serwer] Well -LAB-disfluency-RAB- tha- -LAB-/disfluency-RAB- and that 's what they say <ENAMEX TYPE="PERSON">Rick</ENAMEX> /.
+[Andy_Serwer] I mean <ENAMEX TYPE="CARDINAL">one point three million</ENAMEX> <ENAMEX TYPE="NORP">Americans</ENAMEX> work at <ENAMEX TYPE="ORG">Wal - Mart</ENAMEX> /.
+[Andy_Serwer] A lot of people like working there /.
+[Andy_Serwer] We have to remember that /.
+[Andy_Serwer] I mean it 's not all these people who work there are unhappy /.
+[Andy_Serwer] That 's <ENAMEX TYPE="CARDINAL">number one</ENAMEX> /.
+[Andy_Serwer] <ENAMEX TYPE="CARDINAL">Number two</ENAMEX> the <ENAMEX TYPE="ORG">Wal - Mart</ENAMEX> people say look /.
+[Andy_Serwer] we 're paying people -LAB-disfluency-RAB- a hun- -LAB-/disfluency-RAB- <ENAMEX TYPE="CARDINAL">one point three million</ENAMEX> <ENAMEX TYPE="NORP">Americans</ENAMEX> /.
+[Andy_Serwer] but <ENAMEX TYPE="CARDINAL">hundreds of millions</ENAMEX> of <ENAMEX TYPE="NORP">Americans</ENAMEX> are benefiting from low prices /.
+[Andy_Serwer] They 're able to buy a ~VCR they might not be able to buy because we 're keeping our costs low /.
+[Andy_Serwer] That 's their response /.
+[Rick_Sanchez] If their message is right why are n't they putting one of their big kahunas out there to talk to <ENAMEX TYPE="PERSON">Rick Sanchez</ENAMEX> to talk to <ENAMEX TYPE="PERSON">Andy</ENAMEX> and say look , this is all wrong /?
+[Rick_Sanchez] Right now they 're not talking /.
+[Rick_Sanchez] -LAB-disfluency-RAB- They 're -- -LAB-/disfluency-RAB- they 're not willing to go on camera /.
+[Andy_Serwer] Well they 're just starting to /.
+[Andy_Serwer] You have to remember this company was a very closed uh culture really -LAB-disfluency-RAB- s- -LAB-/disfluency-RAB- founded by <ENAMEX TYPE="PERSON">Sam Walton</ENAMEX> /.
+[Andy_Serwer] He passed away in <ENAMEX TYPE="DATE">nineteen ninety - two</ENAMEX> /.
+[Andy_Serwer] He did n't believe in talking to the press /.
+[Andy_Serwer] He did n't believe in ~PR /.
+[Andy_Serwer] He said all we need to do was open stores up and offer goods at low prices /.
+[Andy_Serwer] They 're starting to realize that they need to respond more and more /.
+[Andy_Serwer] So they 're just getting up to speed /.
+[Andy_Serwer] but I think you 're right /.
+[Andy_Serwer] They should get out there and tell their side of the story /.
+[Rick_Sanchez] Is this going to be a big hit for them /?
+[Andy_Serwer] No I do n't think it is going to be a big hit because there 're other things out there /.
+[Andy_Serwer] You know there 's a negative documentary film about <ENAMEX TYPE="ORG">Wal - Mart</ENAMEX> /.
+[Andy_Serwer] There 's maybe a positive film out there as well /.
+[Andy_Serwer] They 're going to marshal their forces /.
+[Andy_Serwer] and they 're going to fight back /.
+[Andy_Serwer] and a lot of people like to shop at <ENAMEX TYPE="ORG">Wal - Mart</ENAMEX> /.
+[Andy_Serwer] I mean they would n't be a problem to some people if they were n't so successful /.
+[Andy_Serwer] People like to shop there /.
+[Rick_Sanchez] Certainly do /.
+[Rick_Sanchez] Time will tell /.
+[Rick_Sanchez] <ENAMEX TYPE="PERSON">Andy</ENAMEX> thanks so much for being with us /.
+[Andy_Serwer] You 're welcome <ENAMEX TYPE="PERSON">Rick</ENAMEX> /.
+[Rick_Sanchez] And there you have it /.
+[Rick_Sanchez] Dueling documentaries out <ENAMEX TYPE="DATE">this month</ENAMEX> /.
+[Rick_Sanchez] Still to come on <ENAMEX TYPE="WORK_OF_ART">Newsnight</ENAMEX> the <ENAMEX TYPE="GPE">Big Easy</ENAMEX> suddenly split in <ENAMEX TYPE="CARDINAL">two</ENAMEX> how people in the same city are living different lives <ENAMEX TYPE="DATE">two months</ENAMEX> after <ENAMEX TYPE="EVENT">Katrina</ENAMEX> /.
+[Rick_Sanchez] We will take you there /.
+[Kyra_Phillips] Plus he 's a convicted killer a co-founder of a violent street gang /.
+[Kyra_Phillips] Now he 's on death row /.
+[Kyra_Phillips] So why are so many people trying to save his life /?
+[Rick_Sanchez] It is time now to check on some of the other stories that are happening <ENAMEX TYPE="TIME">tonight</ENAMEX> /.
+[Rick_Sanchez] and for that we go to uh <ENAMEX TYPE="PERSON">Erica Hill</ENAMEX> from <ENAMEX TYPE="WORK_OF_ART">Headline News</ENAMEX> /.
+[Rick_Sanchez] Hello <ENAMEX TYPE="PERSON">Erica</ENAMEX> /.
+[Erica_Hill] Hey <ENAMEX TYPE="PERSON">Rick</ENAMEX> good to see you /.
+[Erica_Hill] We begin <ENAMEX TYPE="TIME">tonight</ENAMEX> in <ENAMEX TYPE="GPE">Iraq</ENAMEX> with a bloody end to the <ENAMEX TYPE="NORP">Muslim</ENAMEX> holy month of <ENAMEX TYPE="DATE">Ramadan</ENAMEX> /.
+[Erica_Hill] <ENAMEX TYPE="CARDINAL">Twenty - seven</ENAMEX> people killed in <ENAMEX TYPE="CARDINAL">three</ENAMEX> separate attacks <ENAMEX TYPE="DATE">today</ENAMEX> /.
+[Erica_Hill] The worst in a town <ENAMEX TYPE="QUANTITY">forty - five miles</ENAMEX> south of <ENAMEX TYPE="GPE">Baghdad</ENAMEX> where a suicide bomber blew up a mini-bus in a busy shopping area /.
+[Erica_Hill] Elsewhere a <ENAMEX TYPE="GPE">~US</ENAMEX> soldier was killed in an attack near <ENAMEX TYPE="GPE">Balad</ENAMEX> /.
+[Erica_Hill] and <ENAMEX TYPE="CARDINAL">two</ENAMEX> Marines died in a helicopter crash near <ENAMEX TYPE="GPE">Ramadi</ENAMEX> /.
+[Erica_Hill] <ENAMEX TYPE="GPE">Bagram</ENAMEX> <ENAMEX TYPE="GPE">Afghanistan</ENAMEX> now where a senior <ENAMEX TYPE="ORG">al - Qaeda</ENAMEX> operative is apparently on the loose /.
+[Erica_Hill] <ENAMEX TYPE="ORG">Pentagon</ENAMEX> officials say <ENAMEX TYPE="PERSON">Omar al - Farouq</ENAMEX> escaped from <ENAMEX TYPE="GPE">~US</ENAMEX> custody back in <ENAMEX TYPE="DATE">July</ENAMEX> /.
+[Erica_Hill] <ENAMEX TYPE="PERSON">Al - Farouq</ENAMEX> had set up the <ENAMEX TYPE="ORDINAL">first</ENAMEX> <ENAMEX TYPE="ORG">al - Qaeda</ENAMEX> camps in southeast <ENAMEX TYPE="LOC">Asia</ENAMEX> /.
+[Erica_Hill] He was captured in <ENAMEX TYPE="GPE">Indonesia</ENAMEX> in <ENAMEX TYPE="DATE">two thousand two</ENAMEX> then turned over to <ENAMEX TYPE="GPE">~US</ENAMEX> officials who brought him to <ENAMEX TYPE="GPE">Afghanistan</ENAMEX> /.
+[Erica_Hill] In <ENAMEX TYPE="GPE">Detroit</ENAMEX> <ENAMEX TYPE="GPE">Michigan</ENAMEX> <ENAMEX TYPE="CARDINAL">thousands</ENAMEX> paying tribute <ENAMEX TYPE="DATE">today</ENAMEX> at the funeral of <ENAMEX TYPE="PERSON">Rosa Parks</ENAMEX> /.
+[Erica_Hill] Many prominent figures were in attendance including the Reverends <ENAMEX TYPE="PERSON">Jesse Jackson</ENAMEX> and <ENAMEX TYPE="PERSON">Al Sharpton</ENAMEX> as well as former President <ENAMEX TYPE="PERSON">Bill Clinton</ENAMEX> /.
+[Erica_Hill] <ENAMEX TYPE="PERSON">Parks</ENAMEX> inspired the <ENAMEX TYPE="ORG">Civil Rights</ENAMEX> movement of course when she refused to give up -LAB-disfluency-RAB- her bus -- -LAB-/disfluency-RAB- her seat on a bus to a white man in <ENAMEX TYPE="DATE">nineteen fifty - five</ENAMEX> /.
+[Erica_Hill] She died <ENAMEX TYPE="DATE">last week</ENAMEX> at <ENAMEX TYPE="DATE">the age of ninety - two</ENAMEX> /.
+[Erica_Hill] And in <ENAMEX TYPE="GPE">Los Angeles</ENAMEX> a massive protest against the <ENAMEX TYPE="PERSON">Bush</ENAMEX> administration shuts down parts of the city /.
+[Erica_Hill] The <ENAMEX TYPE="TIME">afternoon</ENAMEX> and <ENAMEX TYPE="TIME">evening</ENAMEX> demonstrations organized by the group <ENAMEX TYPE="ORG">The World Ca n't Wait</ENAMEX> led police to close many streets around a federal building in West <ENAMEX TYPE="GPE">~LA</ENAMEX> /.
+[Erica_Hill] There were some confrontations with police /.
+[Erica_Hill] <ENAMEX TYPE="CARDINAL">One</ENAMEX> officer 's uniform caught fire after a molotov cocktail was thrown his way /.
+[Erica_Hill] Quite the demonstration there <ENAMEX TYPE="PERSON">Rick</ENAMEX> /.
+[Rick_Sanchez] Certainly looks like it /.
+[Rick_Sanchez] <ENAMEX TYPE="PERSON">Erica</ENAMEX> thanks so much /.
+[Rick_Sanchez] We 'll look for you in just a little bit /.
+[Rick_Sanchez] <ENAMEX TYPE="PERSON">Kyra</ENAMEX> /?
+[Kyra_Phillips] Well for <ENAMEX TYPE="DATE">more than two months</ENAMEX> we 've seen the havoc that Mother Nature can cause /.
+[Kyra_Phillips] We 've watched from our homes <ENAMEX TYPE="EVENT">Katrina</ENAMEX> 's destructive force and people struggling in its aftermath /.
+[Kyra_Phillips] Even now it 's impossible to grasp the tragedy along <ENAMEX TYPE="LOC">the Gulf Coast</ENAMEX> /.
+[Kyra_Phillips] There are so many parts to it /.
+[Kyra_Phillips] So <ENAMEX TYPE="TIME">tonight</ENAMEX> <ENAMEX TYPE="ORG">~CNN</ENAMEX> 's <ENAMEX TYPE="PERSON">Dan Simon</ENAMEX> shows us a different angle a new divide forming in the <ENAMEX TYPE="GPE">Big Easy</ENAMEX> /.
+[Dan_Simon] It was the best of times /.
+[Dan_Simon] it was the worst of times /.
+[Dan_Simon] the famous words of <ENAMEX TYPE="PERSON">Charles Dickens</ENAMEX> in <ENAMEX TYPE="WORK_OF_ART">A Tale of Two Cities</ENAMEX> /.
+[Dan_Simon] Here in <ENAMEX TYPE="GPE">New Orleans</ENAMEX> that <ENAMEX TYPE="DATE">nineteenth century</ENAMEX> text resonates as it feels literally like <ENAMEX TYPE="CARDINAL">two</ENAMEX> cities have emerged since <ENAMEX TYPE="EVENT">Hurricane Katrina</ENAMEX> [Dan_Simon] <ENAMEX TYPE="CARDINAL">one</ENAMEX> filled with anger and desperation /-
+[Daisy_Peters] Nobody 's trying to help /.
+[Daisy_Peters] Nobody 's trying to do nothing /.
+[Dan_Simon] But here across the river on what locals call <ENAMEX TYPE="LOC">the West Bank</ENAMEX> they have different problems [Dan_Simon] the kind you do n't mind having like where to get coffee or go shopping /.
+[Dan_Simon] Here it 's about progress and optimism /.
+[Don_Paolo] The biggest complaint we have is we never know when the garbage is being picked up /.
+[Joy_Paolo] Big deal right /?
+[Don_Paolo] Yeah /.
+[Joy_Paolo] I mean you know so it 's all relative /.
+[Dan_Simon] <ENAMEX TYPE="PERSON">Don</ENAMEX> and <ENAMEX TYPE="PERSON">Joy Paolo</ENAMEX> live across the river from the devastation in a place called <ENAMEX TYPE="LOC">Algiers Point</ENAMEX> /.
+[Dan_Simon] We found the retired couple relaxing on their porch /.
+[Joy_Paolo] Play on words /.
+[Joy_Paolo] this is <ENAMEX TYPE="LOC">the West Bank</ENAMEX> /.
+[Joy_Paolo] but people here call it the blessed bank /.
+[Dan_Simon] The <ENAMEX TYPE="PERSON">Paolos</ENAMEX> bounced back quickly after evacuating to <ENAMEX TYPE="GPE">Ohio</ENAMEX> /.
+[Dan_Simon] While they came back to mold and a busted heater their problems seem miniscule /.
+[Don_Paolo] One of the biggest problems we have over here truthfully is traffic /.
+[Dan_Simon] There is no traffic in other parts of town /.
+[Dan_Simon] This is the devastated <ENAMEX TYPE="LOC">Lower Ninth Ward</ENAMEX> /.
+[Dan_Simon] Restaurants gas stations closed /.
+[Dan_Simon] neighborhoods vacant filled with trash /.
+[Dan_Simon] Contrast that with <ENAMEX TYPE="LOC">Algiers</ENAMEX> where carved pumpkins dot the landscape and most of the stores even little cafes are open for business /.
+[Daisy_Peters] We just isolated /.
+[Daisy_Peters] We like on a island over here /.
+[Daisy_Peters] We isolated from the whole city /.
+[Dan_Simon] <ENAMEX TYPE="PERSON">Daisy Peters</ENAMEX> 's feelings are understandable , her house in ruins /.
+[Dan_Simon] Other than the help of a few family members clearing away debris she 's on her own /.
+[Daisy_Peters] I am very very very disgusted with this place /.
+[Dan_Simon] Who are you disgusted with /?
+[Daisy_Peters] The governor and the mayor and <ENAMEX TYPE="ORG">FEMA</ENAMEX> and all of them /.
+[Dan_Simon] You feel like they just do n't care /.
+[Daisy_Peters] I feel like they do not care /.
+[Dan_Simon] Government officials say they do care /.
+[Dan_Simon] but the magnitude of destruction makes rebuilding very difficult /.
+[Dan_Simon] There 's no drinkable water and little if any electricity here and no plan yet for restoring the neighborhood /.
+[Daisy_Peters] I 'm not giving this house away /.
+[Daisy_Peters] If somebody they do n't want to rebuild down here somebody need to see me about this house because I 'm not giving it to nobody /.
+[Dan_Simon] <ENAMEX TYPE="PERSON">Daisy</ENAMEX> decides to take a rest /.
+[Dan_Simon] They 're also resting at the <ENAMEX TYPE="PERSON">Paolo</ENAMEX> house but in a different way /.
+[Dan_Simon] <ENAMEX TYPE="PERSON">Dan Simon</ENAMEX> <ENAMEX TYPE="ORG">~CNN</ENAMEX> <ENAMEX TYPE="GPE">New Orleans</ENAMEX> /.
+[Kyra_Phillips] Whether you 've lost your entire home or just a few things a loss hurts /.
+[Kyra_Phillips] and one of our own here at <ENAMEX TYPE="ORG">~CNN</ENAMEX> has felt the pain of <ENAMEX TYPE="EVENT">Katrina</ENAMEX> /.
+[Kyra_Phillips] <ENAMEX TYPE="WORK_OF_ART">American Morning</ENAMEX> executive producer <ENAMEX TYPE="PERSON">Kim Bondy</ENAMEX> has a house in <ENAMEX TYPE="GPE">New Orleans</ENAMEX> /.
+[Kyra_Phillips] <ENAMEX TYPE="WORK_OF_ART">American Morning</ENAMEX> anchor <ENAMEX TYPE="PERSON">Miles O'Brien</ENAMEX> was with <ENAMEX TYPE="PERSON">Kim</ENAMEX> <ENAMEX TYPE="DATE">today</ENAMEX> as she got some expert opinions on the damage to her home /.
+[Kim_Bondy] This room was an addition to the house /.
+[Kim_Bondy] It originally had paneling /.
+[Kim_Bondy] and then when I bought the house in <ENAMEX TYPE="DATE">two thousand and one</ENAMEX> I had new walls put in /.
+[Kim_Bondy] So this is all new drywall in here /.
+[Kim_Bondy] So -LAB-disfluency-RAB- mol- -LAB-/disfluency-RAB- the mold growth is pretty substantial /.
+[Miles_O'Brien] The sunroom at <ENAMEX TYPE="PERSON">Kim Bondy</ENAMEX> 's house in <ENAMEX TYPE="GPE">New Orleans</ENAMEX> sure could use a little sun /.
+[Miles_O'Brien] Perhaps it might bake away the multilayered mold that covers the walls and fouls the air /.
+[Rusty_Amarante] You 've got so much moisture in here /.
+[Rusty_Amarante] -LAB-disfluency-RAB- It it um i- -LAB-/disfluency-RAB- you know -LAB-disfluency-RAB- i- -LAB-/disfluency-RAB- so much damage /.
+[Rusty_Amarante] -LAB-disfluency-RAB- It this -LAB-/disfluency-RAB- the mold just feeds off of itself /.
+[Miles_O'Brien] <ENAMEX TYPE="PERSON">Kim</ENAMEX> invited veteran property restoration expert <ENAMEX TYPE="PERSON">Rusty Amarante</ENAMEX> to tour her once upon a dream home which sat in standing fetid water for <ENAMEX TYPE="DATE">two and a half weeks</ENAMEX> after the levees broke /.
+[Miles_O'Brien] Not a pretty picture /.
+[Miles_O'Brien] but <ENAMEX TYPE="PERSON">Rusty Amarante</ENAMEX> has seen it all before /.
+[Kim_Bondy] Would you recommend that a room like this be sort of torn down and start all over /?
+[Rusty_Amarante] I do n't think you need to tear it down /.
+[Rusty_Amarante] I think you need to thoroughly gut it /.
+[Rusty_Amarante] You need to take out -LAB-unintelligible-RAB- /.
+[Miles_O'Brien] Gutting a house , stripping it to the bones like a <ENAMEX TYPE="DATE">Thanksgiving</ENAMEX> turkey seems like a bitter pill for the average homeowner /.
+[Miles_O'Brien] but <ENAMEX TYPE="PERSON">Rusty</ENAMEX> has a way of putting things in perspective /.
+[Rusty_Amarante] Really you 're just talking about redoing -LAB-disfluency-RAB- th- the -LAB-/disfluency-RAB- the interior building envelope here /.
+[Rusty_Amarante] So uh -LAB-disfluency-RAB- a- -LAB-/disfluency-RAB- as devastating as it is you 're really kind of fortunate because once you take out the plaster , once you take out the insulation make sure that the inside of the building is dry uh the foundation is dry you can really start the rebuilding process /.
+[Rusty_Amarante] And -LAB-unintelligible-RAB- /.
+[Miles_O'Brien] But what about the structure of the house /?
+[Miles_O'Brien] Any osteoporosis in those bones /?
+[Kim_Bondy] From what I can see of the brick from the outside it looks very solid /.
+[Miles_O'Brien] For some answers <ENAMEX TYPE="PERSON">Kim</ENAMEX> called in another expert <ENAMEX TYPE="PERSON">Elizabeth English</ENAMEX> a professor who studies how buildings weather hurricanes /.
+[Elizabeth_English] Crawl space /.
+[Kim_Bondy] Crawl space /.
+[Kim_Bondy] I 've never even looked underneath there /.
+[Miles_O'Brien] But <ENAMEX TYPE="PERSON">Elizabeth</ENAMEX> did /.
+[Miles_O'Brien] and it looks pretty good /.
+[Elizabeth_English] Still a little damp down here /.
+[Elizabeth_English] and that needs to dry out /.
+[Kim_Bondy] Mhm /.
+[Elizabeth_English] But um you know -LAB-disfluency-RAB- you do n't have -- -LAB-/disfluency-RAB- you do n't have a problem with rot at this point /.
+[Miles_O'Brien] It was a cursory inspection a few pokes and peeks /.
+[Elizabeth_English] This is very good solid construction here /.
+[Miles_O'Brien] But enough to make <ENAMEX TYPE="PERSON">Elizabeth</ENAMEX> a big believer in the <ENAMEX TYPE="PERSON">Bondy</ENAMEX> bungalow /.
+[Miles_O'Brien] If this were your house what would you do /?
+[Elizabeth_English] I 'd fix it up /.
+[Miles_O'Brien] Yeah /?
+[Elizabeth_English] Absolutely /.
+[Elizabeth_English] Absolutely /.
+[Elizabeth_English] This house -LAB-disfluency-RAB- is not i- -- -LAB-/disfluency-RAB- is not a goner /.
+[Elizabeth_English] Uh -LAB-disfluency-RAB- this house -LAB-/disfluency-RAB- this house -LAB-disfluency-RAB- coul- can -LAB-/disfluency-RAB- can be uh repaired -LAB-disfluency-RAB- and -LAB-/disfluency-RAB- uh and brought back to life /.
+[Elizabeth_English] and it 's bringing the individual houses back to life that 'll bring the neighborhood back to life /.
+[Elizabeth_English] and bringing <ENAMEX TYPE="GPE">New Orleans</ENAMEX> ' neighborhoods back to life is what will bring the city back to life /.
+[Miles_O'Brien] <ENAMEX TYPE="PERSON">Miles O'Brien</ENAMEX> <ENAMEX TYPE="ORG">~CNN</ENAMEX> <ENAMEX TYPE="GPE">New Orleans</ENAMEX> hm /.
+[Kyra_Phillips] And you can catch <ENAMEX TYPE="WORK_OF_ART">American Morning</ENAMEX> 's <ENAMEX TYPE="PERSON">Miles O'Brien</ENAMEX> and <ENAMEX TYPE="PERSON">Soledad O'Brien</ENAMEX> every morning on <ENAMEX TYPE="WORK_OF_ART">American Morning</ENAMEX> beginning at <ENAMEX TYPE="TIME">seven ~am eastern</ENAMEX> /.
+[Kyra_Phillips] and you know just watching that piece I talked to friends of mine living in <ENAMEX TYPE="GPE">New Orleans</ENAMEX> saying they 're getting contractors to come out and give them estimates /.
+[Kyra_Phillips] <ENAMEX TYPE="CARDINAL">One</ENAMEX> friend had <ENAMEX TYPE="CARDINAL">three</ENAMEX> contractors come out /.
+[Kyra_Phillips] and the difference in prices /.
+[Rick_Sanchez] Yeah it 's amazing /.
+[Kyra_Phillips] -LAB-unintelligible-RAB- /.
+[Kyra_Phillips] -LAB-disfluency-RAB- I- -LAB-/disfluency-RAB- it is amazing /.
+[Kyra_Phillips] You 've got to be really careful who you pick to take on the job /.
+[Rick_Sanchez] The waters have receded /.
+[Rick_Sanchez] but the problems have yeah /.
+[Kyra_Phillips] Keep rising /.
+[Rick_Sanchez] <ENAMEX TYPE="TIME">Tonight</ENAMEX> on <ENAMEX TYPE="WORK_OF_ART">Newsnight</ENAMEX> politics makes strange bedfellows /.
+[Rick_Sanchez] Would you believe that some liberal <ENAMEX TYPE="NORP">Democrats</ENAMEX> might support President <ENAMEX TYPE="PERSON">Bush</ENAMEX> 's <ENAMEX TYPE="ORG">Supreme Court</ENAMEX> Nominee <ENAMEX TYPE="PERSON">Samuel Alito</ENAMEX> /?
+[Rick_Sanchez] We 're going to explain this one to you /.
+[Kyra_Phillips] And why are so many people trying to keep a convicted killer from getting the death penalty /?
+[Kyra_Phillips] That story straight ahead /.
+[Rick_Sanchez] Ever since uh President <ENAMEX TYPE="PERSON">Bush</ENAMEX> said the name <ENAMEX TYPE="PERSON">Samuel Alito</ENAMEX> we have been hearing from both extremes of the political spectrum /.
+[Rick_Sanchez] The far right loves the <ENAMEX TYPE="ORG">Supreme Court</ENAMEX> nominee as you might imagine /.
+[Rick_Sanchez] The far left ca n't stand him /.
+[Rick_Sanchez] We 're learning though that some <ENAMEX TYPE="NORP">Democrats</ENAMEX> liberal <ENAMEX TYPE="NORP">Democrats</ENAMEX> are willing to give <ENAMEX TYPE="PERSON">Alito</ENAMEX> a chance /.
+[Rick_Sanchez] <ENAMEX TYPE="ORG">~CNN</ENAMEX> senior political correspondent <ENAMEX TYPE="PERSON">Candy Crowley</ENAMEX> explains /.
+[Candy_Crowley] Meet <ENAMEX TYPE="PERSON">Jeffrey Wasserstein</ENAMEX> former law clerk for Judge <ENAMEX TYPE="PERSON">Sam Alito</ENAMEX> /.
+[Jeffrey_Wasserstein] I think you look at the totality of his career and what you see is a judge squarely within the mainstream /.
+[Candy_Crowley] <ENAMEX TYPE="PERSON">Wasserstein</ENAMEX> is a liberal <ENAMEX TYPE="NORP">Democrat</ENAMEX> except when he votes <ENAMEX TYPE="ORG">Green party</ENAMEX> /.
+[Candy_Crowley] and he is not alone /.
+[Jeffrey_Wasserstein] He 's hired liberals conservatives libertarians independents um /.
+[Jeffrey_Wasserstein] and all I know is that we 're all unanimously supporting the judge -LAB-disfluency-RAB- for his i- -- -LAB-/disfluency-RAB- in his nomination /.
+[Candy_Crowley] The kind of testimony that may make it easier for people like Senator <ENAMEX TYPE="PERSON">Ben Nelson</ENAMEX> the <ENAMEX TYPE="ORDINAL">third</ENAMEX> <ENAMEX TYPE="NORP">Democrat</ENAMEX> to get an up - close and personal look at the President 's <ENAMEX TYPE="ORG">Supreme Court</ENAMEX> nominee /.
+[Candy_Crowley] A <ENAMEX TYPE="NORP">Democrat</ENAMEX> from <ENAMEX TYPE="GPE">Nebraska</ENAMEX> a state that went <ENAMEX TYPE="PERSON">Bush</ENAMEX> in <ENAMEX TYPE="DATE">oh four</ENAMEX> <ENAMEX TYPE="PERSON">Nelson</ENAMEX> is <ENAMEX TYPE="CARDINAL">one</ENAMEX> of <ENAMEX TYPE="CARDINAL">five</ENAMEX> red state <ENAMEX TYPE="NORP">Democrats</ENAMEX> up for reelection in <ENAMEX TYPE="DATE">oh six</ENAMEX> who would rather vote than fight /.
+[Senator_Ben_Nelson] I just hope that we 're able to work our way through -LAB-disfluency-RAB- and -LAB-/disfluency-RAB- uh and make an up or down decision on this judge /.
+[Candy_Crowley] He 's not even a member of the <ENAMEX TYPE="ORG">Judiciary Committee</ENAMEX> /.
+[Candy_Crowley] but <ENAMEX TYPE="PERSON">Nelson</ENAMEX> and other <ENAMEX TYPE="NORP">Democrats</ENAMEX> are targets of opportunity for the <ENAMEX TYPE="ORG">White House</ENAMEX> which hopes to pad <ENAMEX TYPE="NORP">Republican</ENAMEX> support for <ENAMEX TYPE="PERSON">Alito</ENAMEX> with enough <ENAMEX TYPE="NORP">Democrats</ENAMEX> to discourage and if needed defeat a filibuster /.
+[Crowd] No no no /.
+[Crowd] <ENAMEX TYPE="PERSON">Alito</ENAMEX> will not save <ENAMEX TYPE="LAW">Roe</ENAMEX> /.
+[Candy_Crowley] Here 's the <ENAMEX TYPE="NORP">Democrats</ENAMEX> ' problem /.
+[Candy_Crowley] The party 's base support liberal women 's groups civil rights groups environmental groups the footsoldiers that raise money knock on doors and vote come rain or shine want to fight over <ENAMEX TYPE="PERSON">Alito</ENAMEX> /.
+[Candy_Crowley] An argument that finds sympathy in blue state <ENAMEX TYPE="NORP">Democrats</ENAMEX> like <ENAMEX TYPE="GPE">Illinois</ENAMEX> 's <ENAMEX TYPE="PERSON">Dick Durbin</ENAMEX> /.
+[Dick_Durbin] It could tip the balance for a generation in another direction on critical issues women 's rights and workers ' rights the right of privacy uh protecting the environment human rights civil rights /.
+[Dick_Durbin] All of these things are at stake in this nomination /.
+[Candy_Crowley] The filibuster fight to please <ENAMEX TYPE="NORP">Democratic</ENAMEX> activists could alienate the kind of centrists who vote for both <ENAMEX TYPE="PERSON">George Bush</ENAMEX> and <ENAMEX TYPE="PERSON">Ben Nelson</ENAMEX> in the same state which is why the word filibuster makes <ENAMEX TYPE="PERSON">Ben Nelson</ENAMEX> dance /.
+[Senator_Ben_Nelson] You know the word filibuster keeps coming up in the questions rather than in the answers /.
+[Senator_Ben_Nelson] but you do n't rule it out /.
+[Senator_Ben_Nelson] but nobody 's ruling it in /.
+[Candy_Crowley] While <ENAMEX TYPE="NORP">Democrats</ENAMEX> still hold out the possibility of a filibuster the competing need to please the base and reach to the center makes it hard to find consensus all of which could bode well for <ENAMEX TYPE="PERSON">Sam Alito</ENAMEX> who may get by with a little help from his friends /.
+[Jeffrey_Wasserstein] There was never an ideological or political consideration in how he viewed cases /.
+[Candy_Crowley] So a judge 's judge /.
+[Jeffrey_Wasserstein] Judge 's judge /.
+[Jeffrey_Wasserstein] Absolutely /.
+[Candy_Crowley] <ENAMEX TYPE="PERSON">Candy Crowley</ENAMEX> <ENAMEX TYPE="ORG">~CNN</ENAMEX> <ENAMEX TYPE="GPE">Washington</ENAMEX> /.
+[Rick_Sanchez] The founder of <ENAMEX TYPE="CARDINAL">one</ENAMEX> of the nation 's most notorious street gangs is facing a death penalty /.
+[Rick_Sanchez] Coming up , who 's trying to save his life and why /?
+[Rick_Sanchez] Also the survivors of that massive <ENAMEX TYPE="LOC">South Asian</ENAMEX> earthquake are facing a new and even deadlier if you can believe it threat /.
+[Rick_Sanchez] From around the world this is <ENAMEX TYPE="WORK_OF_ART">Newsnight</ENAMEX> /.
+[Kyra_Phillips] In a few weeks the state of <ENAMEX TYPE="GPE">California</ENAMEX> is planning to execute <ENAMEX TYPE="PERSON">Tookie Williams</ENAMEX> the man who co-founded one of the country 's most notorious street gangs /.
+[Kyra_Phillips] You may have heard of the Crips or seen them portrayed in the movies /.
+[Kyra_Phillips] Well <ENAMEX TYPE="PERSON">Williams</ENAMEX> is a convicted killer /.
+[Kyra_Phillips] but people all over the country are trying to save his life /.
+[Kyra_Phillips] <ENAMEX TYPE="ORG">~CNN</ENAMEX> 's <ENAMEX TYPE="PERSON">Chris Lawrence</ENAMEX> looks into why /.
+[Jamie_Foxx] -LAB-unintelligible-RAB- /.
+[Chris_Lawrence] Actor <ENAMEX TYPE="PERSON">Jamie Foxx</ENAMEX> is asking <ENAMEX TYPE="GPE">California</ENAMEX> 's governor to spare the life of the man he played on screen /.
+[Jamie_Foxx] I never back down never /.
+[Chris_Lawrence] <ENAMEX TYPE="PERSON">Stanley Tookie Williams</ENAMEX> co-founded the Crips street gang /.
+[Chris_Lawrence] He robbed and murdered and was convicted of his crimes in <ENAMEX TYPE="DATE">nineteen eighty - one</ENAMEX> /.
+[Chris_Lawrence] But from his cell on death row <ENAMEX TYPE="PERSON">Williams</ENAMEX> spent years writing children 's books and preaching against gang violence /.
+[Edgar_Medina] And if he dies -LAB-disfluency-RAB- he -LAB-/disfluency-RAB- some people are not going to have the opportunity to learn from his mistakes /.
+[Chris_Lawrence] <ENAMEX TYPE="PERSON">Edgar Medina</ENAMEX> read the books and says <ENAMEX TYPE="PERSON">Williams</ENAMEX> convinced him to stay in school /.
+[Edgar_Medina] If I would have been in a gang right now I would 've probably be in jail dead /.
+[Chris_Lawrence] Instead he 's <ENAMEX TYPE="DATE">fifteen</ENAMEX> on track to graduate and go to college /.
+[Wesley_McBride] I heard one report where they say he saved <ENAMEX TYPE="CARDINAL">a hundred fifty thousand</ENAMEX> kids from joining gangs /.
+[Wesley_McBride] That 's absurd /.
+[Wesley_McBride] How do you know that /?
+[Chris_Lawrence] Retired sergeant <ENAMEX TYPE="PERSON">Wes McBride</ENAMEX> worked the gang detail for <ENAMEX TYPE="DATE">twenty - six years</ENAMEX> in <ENAMEX TYPE="GPE">~LA County</ENAMEX> /.
+[Wesley_McBride] It 's not against the law to be a gang member /.
+[Wesley_McBride] It 's against the law to kill people /.
+[Wesley_McBride] and that 's what he 's convicted of /.
+[Chris_Lawrence] A witness says <ENAMEX TYPE="PERSON">Williams</ENAMEX> robbed and executed a <ENAMEX TYPE="ORG">Seven Eleven</ENAMEX> employee then made fun of the man as he died /.
+[Chris_Lawrence] He was also convicted of gunning down an entire family father mother and daughter /.
+[Wesley_McBride] Writing a few books does n't exonerate you from your crimes /.
+[Chris_Lawrence] In <ENAMEX TYPE="PERSON">Williams</ENAMEX> ' case it wo n't /.
+[Chris_Lawrence] On <ENAMEX TYPE="DATE">December thirteenth</ENAMEX> he 's scheduled to die /.
+[Unidentified_Male] I am at this time signing a warrant of execution /.
+[Chris_Lawrence] <ENAMEX TYPE="PERSON">Williams</ENAMEX> ' books are a part of his legacy /.
+[Chris_Lawrence] so are the Crips /.
+[Chris_Lawrence] In <ENAMEX TYPE="DATE">thirty years</ENAMEX> the gang has spread from <ENAMEX TYPE="GPE">California</ENAMEX> to just about every state in the country /.
+[Chris_Lawrence] <ENAMEX TYPE="PERSON">Fred Jackson</ENAMEX> works with kids who grow up surrounded by gangs /.
+[Chris_Lawrence] He says they really listen to <ENAMEX TYPE="PERSON">Williams</ENAMEX> do n't tune him out like cops or counselors /.
+[Fred_Jackson] To kill <ENAMEX TYPE="PERSON">Stan</ENAMEX> will be throwing the baby out with the bath water /.
+[Chris_Lawrence] <ENAMEX TYPE="PERSON">Jackson</ENAMEX> says executing <ENAMEX TYPE="PERSON">Williams</ENAMEX> sends the wrong message /.
+[Fred_Jackson] You would be telling gang members or those wannabe gang members do n't care how you turn your life around /.
+[Fred_Jackson] once you are stuck you are stuck /.
+[Chris_Lawrence] No condemned murderer has been granted clemency in <ENAMEX TYPE="GPE">California</ENAMEX> since <ENAMEX TYPE="DATE">nineteen sixty - seven</ENAMEX> /.
+[Chris_Lawrence] The odds are against any man even one like <ENAMEX TYPE="PERSON">Tookie</ENAMEX> Williams who was nominated for a <ENAMEX TYPE="WORK_OF_ART">Nobel Peace prize</ENAMEX> /.
+[Wesley_McBride] But he did n't win it /.
+[Wesley_McBride] You know -LAB-disfluency-RAB- u- -LAB-/disfluency-RAB- and even if he did -LAB-disfluency-RAB- i- -LAB-/disfluency-RAB- does that mean -LAB-disfluency-RAB- you -LAB-/disfluency-RAB- uh you 're forgiven for murdering a whole family /?
+[Wesley_McBride] No I do n't think so /.
+[Chris_Lawrence] Like his life <ENAMEX TYPE="PERSON">Tookie Williams</ENAMEX> ' legacy will be complicated /.
+[Chris_Lawrence] <ENAMEX TYPE="PERSON">Chris Lawrence</ENAMEX> <ENAMEX TYPE="ORG">~CNN</ENAMEX> <ENAMEX TYPE="GPE">Los Angeles</ENAMEX> /.
+[Kyra_Phillips] Well among those who believe <ENAMEX TYPE="PERSON">Tookie Williams</ENAMEX> ' life should be spared is <ENAMEX TYPE="PERSON">Lewis Yablonsky</ENAMEX> a criminologist expert in gang behavior and author of the book <ENAMEX TYPE="WORK_OF_ART">Gangsters</ENAMEX> /.
+[Kyra_Phillips] He joins us now live /.
+[Kyra_Phillips] Sir let me ask you why do you think <ENAMEX TYPE="PERSON">Tookie</ENAMEX> should not die /?
+[Lewis_Yablonsky] Well I 've been studying gangs for <ENAMEX TYPE="DATE">fifty years</ENAMEX> /.
+[Lewis_Yablonsky] and we 're always looking for solutions /.
+[Lewis_Yablonsky] Uh here 's a man who has changed his lifestyle /.
+[Lewis_Yablonsky] I 've read all his books /.
+[Lewis_Yablonsky] He was significant in contributing some theories to my book uh <ENAMEX TYPE="WORK_OF_ART">Gangsters</ENAMEX> /.
+[Lewis_Yablonsky] and I think he can be a positive force in uh turning around young gangsters /.
+[Lewis_Yablonsky] In fact -LAB-disfluency-RAB- there -LAB-/disfluency-RAB- there 're several programs in the <ENAMEX TYPE="ORG">California Department of uh Corrections</ENAMEX> where uh ex-offenders -LAB-disfluency-RAB- lifer- -LAB-/disfluency-RAB- some lifers are working with young -LAB-disfluency-RAB- offend- -LAB-/disfluency-RAB- offenders very -LAB-disfluency-RAB- fe- -LAB-/disfluency-RAB- effectively /.
+[Lewis_Yablonsky] Uh the <ENAMEX TYPE="ORG">Amity</ENAMEX> program uh in several prisons <ENAMEX TYPE="ORG">Phoenix program</ENAMEX> in several prisons /.
+[Lewis_Yablonsky] and uh I 've seen uh the impact of lifers individuals who are what I would refer to as experienced therapists /.
+[Lewis_Yablonsky] These are individuals who 've been there like <ENAMEX TYPE="PERSON">Tookie</ENAMEX> /.
+[Lewis_Yablonsky] They 've gone through a transformation as he has over <ENAMEX TYPE="DATE">a period of twenty years</ENAMEX> /.
+[Lewis_Yablonsky] and they can have a real impact on some of the younger offenders to not go down their path and end up -LAB-disfluency-RAB- in the -- in the -- -LAB-/disfluency-RAB- uh being executed /.
+[Kyra_Phillips] Well you know he writes in his memoir it was u- ha- /-
+[Kyra_Phillips] He says <ENAMEX TYPE="DATE">daily</ENAMEX> he spent studying and questioning uh and soulsearching /.
+[Kyra_Phillips] He said he began to develop a sense of critical reasoning from which sprang the first stirring of +conscience /.
+[Kyra_Phillips] This was the moment when redemption infused itself into my life /.
+[Kyra_Phillips] You read this writing /.
+[Kyra_Phillips] and you think wow this is somebody who killed <ENAMEX TYPE="CARDINAL">three</ENAMEX> people /?
+[Kyra_Phillips] Do you believe -LAB-disfluency-RAB- that -LAB-/disfluency-RAB- that murderers can be reformed /?
+[Kyra_Phillips] Is this man healthy /?
+[Kyra_Phillips] If he were to walk the streets again would he never kill again /?
+[Lewis_Yablonsky] -LAB-disfluency-RAB- W- -LAB-/disfluency-RAB- [Lewis_Yablonsky] we 're not talking about letting him out of prison /.
+[Lewis_Yablonsky] We 're talking about clemency to give him life without parole where we do n't kill him /.
+[Lewis_Yablonsky] And I have already made some uh efforts to put him into a particular program where he would uh be effective /.
+[Lewis_Yablonsky] One of the major -LAB-disfluency-RAB- prob- -LAB-/disfluency-RAB- gang problems uh -LAB-disfluency-RAB- w- -LAB-/disfluency-RAB- of the insanity of gang problems is young black men killing young black men and <ENAMEX TYPE="NORP">Hispanic</ENAMEX> kids killing <ENAMEX TYPE="NORP">Hispanic</ENAMEX> kids /.
+[Kyra_Phillips] He talks a lot about black on black crime /.
+[Lewis_Yablonsky] <ENAMEX TYPE="PERSON">Tookie</ENAMEX> /-
+[Lewis_Yablonsky] Right /.
+[Lewis_Yablonsky] And <ENAMEX TYPE="PERSON">Tookie</ENAMEX> has come up with some interesting observations about why this goes on as /-
+[Lewis_Yablonsky] Uh they 're good enough to put in my theoretical book -LAB-disfluency-RAB- on -LAB-/disfluency-RAB- on gangsters /.
+[Lewis_Yablonsky] and I think he could be very effective in a program /.
+[Lewis_Yablonsky] and as I 've indicated I 've already talked to the director -LAB-disfluency-RAB- of -LAB-/disfluency-RAB- uh of a program in the <ENAMEX TYPE="GPE">California</ENAMEX> prison system /.
+[Lewis_Yablonsky] And if Governor <ENAMEX TYPE="PERSON">Schwarzenegger</ENAMEX> really means what he says about uh the <ENAMEX TYPE="ORG">California Department of Corrections</ENAMEX> with emphasis on corrections and rehabilitation he should spare his life /.
+[Kyra_Phillips] -LAB-uncertain-RAB- But -LAB-/uncertain-RAB- /-
+[Lewis_Yablonsky] He 's really the only one who can do it /.
+[Lewis_Yablonsky] and as I 've /-
+[Kyra_Phillips] Well Lewis let me ask you /.
+[Kyra_Phillips] -LAB-disfluency-RAB- what what what u- -LAB-/disfluency-RAB- let 's say he is granted clemency /.
+[Kyra_Phillips] what do you say to the victims ' families /?
+[Lewis_Yablonsky] Well -LAB-disfluency-RAB- we -LAB-/disfluency-RAB- we talk about redemption /.
+[Lewis_Yablonsky] We talk about forgiveness /.
+[Lewis_Yablonsky] Let 's put it this way /.
+[Lewis_Yablonsky] Uh <ENAMEX TYPE="DATE">twenty - five years ago</ENAMEX> I was a different person than I am now /.
+[Lewis_Yablonsky] I think <ENAMEX TYPE="PERSON">Tookie Williams</ENAMEX> from my communications with him is a different person <ENAMEX TYPE="DATE">today</ENAMEX> than when we was convicted of these crimes /.
+[Lewis_Yablonsky] I 'm not uh excusing the crimes /.
+[Lewis_Yablonsky] and I 'm not necessarily uh against the death penalty /.
+[Lewis_Yablonsky] Uh some individuals perhaps should get the death penalty /.
+[Lewis_Yablonsky] but this is a man who can contribute to our society /.
+[Lewis_Yablonsky] and he can be -LAB-disfluency-RAB- ef- -LAB-/disfluency-RAB- effective /.
+[Lewis_Yablonsky] -LAB-disfluency-RAB- I know who police off- -- -LAB-/disfluency-RAB- I know how police officers feel about it /.
+[Lewis_Yablonsky] but /-
+[Kyra_Phillips] -LAB-disfluency-RAB- I -LAB-/disfluency-RAB- I know /.
+[Kyra_Phillips] and -LAB-disfluency-RAB- you 've been -- -LAB-/disfluency-RAB- you 've been studying this for <ENAMEX TYPE="DATE">more than thirty years</ENAMEX> /.
+[Kyra_Phillips] <ENAMEX TYPE="PERSON">Lewis Yablonsky</ENAMEX> uh I thank you sir so much for your time /.
+[Kyra_Phillips] And we talked about family members /.
+[Kyra_Phillips] and <ENAMEX TYPE="PERSON">Lora Owens</ENAMEX> is the stepmother of <ENAMEX TYPE="PERSON">Albert Owens</ENAMEX> the convenience store worker that <ENAMEX TYPE="PERSON">Tookie Williams</ENAMEX> was convicted of killing /.
+[Kyra_Phillips] She joins us now by phone /.
+[Kyra_Phillips] and I appreciate your time <ENAMEX TYPE="PERSON">Lora</ENAMEX> /.
+[Kyra_Phillips] I want to take <ENAMEX TYPE="TIME">a moment</ENAMEX> to talk about <ENAMEX TYPE="PERSON">Albert</ENAMEX> if you do n't mind and just uh remind us about his life /.
+[Lora_Owens] Okay /.
+[Kyra_Phillips] Go ahead <ENAMEX TYPE="PERSON">Lora</ENAMEX> /.
+[Lora_Owens] Thank you for having me on /.
+[Lora_Owens] I appreciate the opportunity to be able to even speak about <ENAMEX TYPE="PERSON">Albert</ENAMEX> /.
+[Lora_Owens] He seems to be the forgotten one /.
+[Lora_Owens] Unfortunately the <ENAMEX TYPE="PERSON">Owens</ENAMEX> family studied gangs specifically the gang that <ENAMEX TYPE="PERSON">Williams</ENAMEX> had because it affected our life /.
+[Lora_Owens] Do you have any idea the impact that it has had on the <ENAMEX TYPE="PERSON">Owens</ENAMEX> family /?
+[Lora_Owens] See the picture of my son /?
+[Kyra_Phillips] We see him /.
+[Lora_Owens] That 's -LAB-disfluency-RAB- a -LAB-/disfluency-RAB- a man that went out /.
+[Lora_Owens] he wanted to make an honest living where <ENAMEX TYPE="PERSON">Williams</ENAMEX> goes out to take whatever he wants /.
+[Lora_Owens] Now we have a major impact /.
+[Lora_Owens] Life 's different now because of what <ENAMEX TYPE="PERSON">Williams</ENAMEX> did to the <ENAMEX TYPE="PERSON">Owens</ENAMEX> family /.
+[Lora_Owens] Life 's a lot different /.
+[Lora_Owens] I do n't have to study gangs /.
+[Lora_Owens] I only have to study what <ENAMEX TYPE="PERSON">Williams</ENAMEX> did /.
+[Kyra_Phillips] Is death /-
+[Lora_Owens] A big difference /.
+[Kyra_Phillips] <ENAMEX TYPE="PERSON">Lora</ENAMEX> is death the answer /?
+[Kyra_Phillips] Does <ENAMEX TYPE="PERSON">Tookie Williams</ENAMEX> need to die /?
+[Kyra_Phillips] Is that what would make you feel better would make your family feel better /?
+[Lora_Owens] It 's called closure Miss <ENAMEX TYPE="PERSON">Phillips</ENAMEX> /.
+[Lora_Owens] That 's what it 's called because when someone like <ENAMEX TYPE="PERSON">Williams</ENAMEX> can do all of these things /-
+[Lora_Owens] -LAB-disfluency-RAB- What -LAB-/disfluency-RAB- what -LAB-disfluency-RAB- does -LAB-/disfluency-RAB- has he paid /?
+[Lora_Owens] He does n't even say he 's guilty /.
+[Lora_Owens] He says he 's innocent /.
+[Lora_Owens] Alright so you have to do that with all of the appeals /.
+[Lora_Owens] He says he 's sorry /.
+[Lora_Owens] For what /.
+[Lora_Owens] that he did n't get away with it /?
+[Lora_Owens] He could do so much to stop gangs /.
+[Kyra_Phillips] He /-
+[Lora_Owens] Is he /?
+[Lora_Owens] No he does n't do any of that /.
+[Lora_Owens] What he does is find somebody who 's willing to write for him somebody who 's out there with the cause /.
+[Lora_Owens] <ENAMEX TYPE="PERSON">Williams</ENAMEX> is n't the important one in this right to life cause /.
+[Lora_Owens] It 's the fact that it is a cause /.
+[Lora_Owens] and he 's got all of these people behind him /.
+[Lora_Owens] They have n't walked where the <ENAMEX TYPE="PERSON">Owens</ENAMEX> family has walked /.
+[Lora_Owens] They have n't had to take someone who 's been murdered and try and build a life without them /.
+[Kyra_Phillips] <ENAMEX TYPE="PERSON">Lora</ENAMEX> -LAB-disfluency-RAB- T- T- -LAB-/disfluency-RAB- <ENAMEX TYPE="PERSON">Tookie</ENAMEX> has this apology uh that he has written that of course he wants everybody -LAB-disfluency-RAB- t- t- -LAB-/disfluency-RAB- to hear /.
+[Kyra_Phillips] Part of it says I pray that <ENAMEX TYPE="DATE">one day</ENAMEX> my apology will be accepted /.
+[Kyra_Phillips] I also pray that your suffering caused by gang violence will soon come to an end as more gang members wake up and stop hurting themselves and others /.
+[Kyra_Phillips] I vow to spend the rest of my life working toward solutions /.
+[Kyra_Phillips] Does that give you any sense of peace /?
+[Lora_Owens] He did n't write it to us /.
+[Lora_Owens] That 's not who he wrote that to /.
+[Lora_Owens] He wrote that to further his gang connections /.
+[Lora_Owens] That 's who he 's writing that to /.
+[Lora_Owens] He did n't write that to the <ENAMEX TYPE="PERSON">Owens</ENAMEX> family /.
+[Kyra_Phillips] <ENAMEX TYPE="PERSON">Lora Owens</ENAMEX> stepmother of <ENAMEX TYPE="PERSON">Albert Owens</ENAMEX> we sure appreciate your time /.
+[Kyra_Phillips] I know this is a difficult uh period for you and your family /.
+[Kyra_Phillips] Um thank you <ENAMEX TYPE="PERSON">Lora</ENAMEX> /.
+[Lora_Owens] Thank you very much /.
+[Rick_Sanchez] Well -LAB-disfluency-RAB- do- -LAB-/disfluency-RAB- different perspective /.
+[Rick_Sanchez] We brought you the tale of <ENAMEX TYPE="CARDINAL">two</ENAMEX> cities /.
+[Rick_Sanchez] and now we bring you a tale of <ENAMEX TYPE="CARDINAL">two</ENAMEX> families /.
+[Kyra_Phillips] And it 'll be interesting to see what happens /.
+[Kyra_Phillips] There are a lot of people protesting [Kyra_Phillips] and a lot of people that uh want to see him die /.
+[Rick_Sanchez] Still ahead on <ENAMEX TYPE="WORK_OF_ART">Newsnight</ENAMEX> winter is coming to the mountains of <ENAMEX TYPE="GPE">Pakistan</ENAMEX> /.
+[Rick_Sanchez] Will <ENAMEX TYPE="CARDINAL">millions</ENAMEX> of those who survived <ENAMEX TYPE="DATE">last month</ENAMEX> 's massive earthquake now succumb to something else bitter cold /?
+[Rick_Sanchez] Also /-
+[Kyra_Phillips] The city of lights is aflame with torched cars /.
+[Kyra_Phillips] A frightening <ENAMEX TYPE="DATE">week</ENAMEX> of violence continues in <ENAMEX TYPE="GPE">Paris</ENAMEX> /.
+[Kyra_Phillips] <ENAMEX TYPE="WORK_OF_ART">Newsnight</ENAMEX> will return /.
+[Rick_Sanchez] Here 's a follow - up /.
+[Rick_Sanchez] High in <ENAMEX TYPE="LOC">the Himalaya Mountains</ENAMEX> tragedy is ready to strike once again /.
+[Rick_Sanchez] <ENAMEX TYPE="ORDINAL">First</ENAMEX> it came in the form of a massive earthquake /.
+[Rick_Sanchez] Soon though it may be the freezing temperatures and the snow of a bitter <ENAMEX TYPE="DATE">winter</ENAMEX> that 's going to take a terrible toll /.
+[Rick_Sanchez] The number 's already brutal /.
+[Rick_Sanchez] Death toll <ENAMEX TYPE="CARDINAL">eighty thousand</ENAMEX> by some counts and climbing /.
+[Rick_Sanchez] Another <ENAMEX TYPE="CARDINAL">eight hundred thousand</ENAMEX> without shelter /.
+[Rick_Sanchez] not even -LAB-disfluency-RAB- a -LAB-/disfluency-RAB- a tent in some cases /.
+[Rick_Sanchez] <ENAMEX TYPE="CARDINAL">More than two million</ENAMEX> in need of food /.
+[Rick_Sanchez] Many in mountain regions where relief trucks or even helicopters ca n't seem to get to /.
+[Rick_Sanchez] Now <ENAMEX TYPE="ORG">~ITV</ENAMEX> 's <ENAMEX TYPE="PERSON">Bill Neely</ENAMEX> reports /.
+[Rick_Sanchez] that 's just from <ENAMEX TYPE="LOC">the Kashmir region</ENAMEX> /.
+[Rick_Sanchez] that 's the area right between <ENAMEX TYPE="GPE">India</ENAMEX> and <ENAMEX TYPE="GPE">Pakistan</ENAMEX> /.
+[Bill_Neely] The helicopters are still busy here /.
+[Bill_Neely] but the weather is worsening /.
+[Bill_Neely] There are <ENAMEX TYPE="DATE">days</ENAMEX> they wo n't fly and places they wo n't go /.
+[Bill_Neely] Into <ENAMEX TYPE="CARDINAL">one</ENAMEX> of these <ENAMEX TYPE="DATE">today</ENAMEX> came <ENAMEX TYPE="ORG">Save the Children</ENAMEX> driving a convoy of <ENAMEX TYPE="CARDINAL">two hundred</ENAMEX> tents <ENAMEX TYPE="QUANTITY">six thousand feet</ENAMEX> up into <ENAMEX TYPE="CARDINAL">one</ENAMEX> of <ENAMEX TYPE="LOC">Kashmir</ENAMEX> 's most remote corners /.
+[Bill_Neely] There waiting <ENAMEX TYPE="CARDINAL">hundreds</ENAMEX> of villagers /.
+[Bill_Neely] this aid the difference between life and death /.
+[Bill_Neely] <ENAMEX TYPE="CARDINAL">One</ENAMEX> man at least has suffered enough death /.
+[Unidentified_Male] Is <ENAMEX TYPE="CARDINAL">seven</ENAMEX> kids <ENAMEX TYPE="CARDINAL">one</ENAMEX> mom and <ENAMEX TYPE="CARDINAL">one</ENAMEX> wife /.
+[Bill_Neely] He lost his <ENAMEX TYPE="CARDINAL">seven</ENAMEX> children /.
+[Unidentified_Male] <ENAMEX TYPE="CARDINAL">Seven</ENAMEX> children /.
+[Unidentified_Male] He lost his <ENAMEX TYPE="CARDINAL">seven</ENAMEX> childrens plus eh his wife and eh his mom /.
+[Bill_Neely] Even the blind walked for <ENAMEX TYPE="TIME">hours</ENAMEX> across a mountain to get here /.
+[Bill_Neely] The tents blankets and clothes their only protection against a brutal winter /.
+[Bill_Neely] It 's a race here against time and against the heavy snows that are on their way /.
+[Bill_Neely] In <ENAMEX TYPE="DATE">about two weeks</ENAMEX> time these mountains and this valley will be covered in snow /.
+[Bill_Neely] and the logic of survival then is brutally simple /.
+[Bill_Neely] Anyone without shelter will die /.
+[Bill_Neely] The problem is there are n't enough tents here or anywhere else /.
+[Bill_Neely] so a second disaster that the <ENAMEX TYPE="ORG">~UN</ENAMEX> says could kill <ENAMEX TYPE="CARDINAL">thousands</ENAMEX> is n't just looming /.
+[Bill_Neely] it 's highly likely /.
+[Bill_Neely] These children survived the earthquake /.
+[Bill_Neely] <ENAMEX TYPE="CARDINAL">Twenty thousand</ENAMEX> did n't /.
+[Bill_Neely] The coming cold and hunger could carry off <ENAMEX TYPE="CARDINAL">thousands</ENAMEX> more /.
+[Bill_Neely] So they struggle away with their tents /.
+[Bill_Neely] and even the aid workers who 've been through the tsunami struggle to cope here /.
+[Sam_Rush] Logistically it 's the worst without a doubt /.
+[Sam_Rush] It 's getting high in mountains /.
+[Sam_Rush] The road that we came up now is pretty perilous to say the least /.
+[Sam_Rush] but we could get vehicles up /.
+[Sam_Rush] We 're talking about a lot of places have got no vehicular access whatsoever /.
+[Sam_Rush] Then we 're talking meal trains and helicopters /.
+[Sam_Rush] and we 're really running out of time /.
+[Sam_Rush] It 's quite a serious situation /.
+[Bill_Neely] -LAB-unintelligible-RAB- the tsunami was much easier to deal with than this /?
+[Sam_Rush] The tsunami did n't have <ENAMEX TYPE="DATE">winter</ENAMEX> coming /.
+[Sam_Rush] I mean here we 've just got this hammer blow that 's going to come down very very shortly /.
+[Bill_Neely] The <ENAMEX TYPE="ORDINAL">first</ENAMEX> disaster was an act of god /.
+[Bill_Neely] A <ENAMEX TYPE="ORDINAL">second</ENAMEX> can be prevented by time /.
+[Bill_Neely] and aid money is running out /.
+[Bill_Neely] As we left <ENAMEX TYPE="TIME">night</ENAMEX> fell /.
+[Bill_Neely] and the <ENAMEX TYPE="ORDINAL">first</ENAMEX> snow fell too /.
+[Bill_Neely] It did n't settle /.
+[Bill_Neely] but it will soon /.
+[Bill_Neely] <ENAMEX TYPE="GPE">Pakistan</ENAMEX> 's mountain people are braced for another terrible test /.
+[Bill_Neely] <ENAMEX TYPE="PERSON">Bill Neely</ENAMEX> <ENAMEX TYPE="ORG">~ITV News</ENAMEX> <ENAMEX TYPE="GPE">Naganari</ENAMEX> <ENAMEX TYPE="LOC">Kashmir</ENAMEX> /.
+[Kyra_Phillips] Well in <ENAMEX TYPE="TIME">a moment</ENAMEX> how sweet it is -LAB-disfluency-RAB- in -LAB-/disfluency-RAB- on the rise /.
+[Kyra_Phillips] but first we turn to <ENAMEX TYPE="PERSON">Erica Hill</ENAMEX> in <ENAMEX TYPE="GPE">Atlanta</ENAMEX> with some other stories making headlines right now /.
+[Kyra_Phillips] Hi <ENAMEX TYPE="PERSON">Erica</ENAMEX> /.
+[Erica_Hill] Hey <ENAMEX TYPE="PERSON">Kyra</ENAMEX> good to see you <ENAMEX TYPE="TIME">tonight</ENAMEX> /.
+[Erica_Hill] We start off with a question many are asking <ENAMEX TYPE="TIME">tonight</ENAMEX> /.
+[Erica_Hill] could there have been a way out of the <ENAMEX TYPE="GPE">Iraq</ENAMEX> war before it started /?
+[Erica_Hill] A senior official from the <ENAMEX TYPE="ORG">United Arab Emirates</ENAMEX> tells <ENAMEX TYPE="ORG">~CNN</ENAMEX> <ENAMEX TYPE="PERSON">Saddam Hussein</ENAMEX> was ready to accept exile there to avoid war but then just days before war broke out , <ENAMEX TYPE="PERSON">Saddam</ENAMEX> 's demands were not met and the deal fell through /.
+[Erica_Hill] In the troubled suburbs of <ENAMEX TYPE="GPE">Paris</ENAMEX> a <ENAMEX TYPE="ORDINAL">seventh</ENAMEX> straight <ENAMEX TYPE="TIME">night</ENAMEX> of violence sparked by the accidental death of <ENAMEX TYPE="CARDINAL">two</ENAMEX> teens /.
+[Erica_Hill] About <ENAMEX TYPE="CARDINAL">one hundred eighty</ENAMEX> cars have been torched at this point /.
+[Erica_Hill] Police are hesitant to venture into the largely <ENAMEX TYPE="NORP">African</ENAMEX> and <ENAMEX TYPE="NORP">Muslim</ENAMEX> neighborhoods /.
+[Erica_Hill] but they have fired rubber bullets and tear gas at gangs of young people throwing stones /.
+[Erica_Hill] And finally tonight the world famous <ENAMEX TYPE="GPE">New York City</ENAMEX> <ENAMEX TYPE="ORG">Rockettes</ENAMEX> not kicking up their heels <ENAMEX TYPE="TIME">tonight</ENAMEX> /.
+[Erica_Hill] The precision dancers walked off the job at an <ENAMEX TYPE="TIME">evening</ENAMEX> dress rehearsal for the <ENAMEX TYPE="DATE">annual</ENAMEX> <ENAMEX TYPE="DATE">Christmas</ENAMEX> spectacular to support striking musicians /.
+[Erica_Hill] No word on whether or not they walked off in step /.
+[Kyra_Phillips] Oh have you seen those costumes by the way /?
+[Kyra_Phillips] They 're amazing /.
+[Erica_Hill] Oh I had to interview <ENAMEX TYPE="CARDINAL">two</ENAMEX> of these beautiful women /.
+[Erica_Hill] -LAB-disfluency-RAB- and -LAB-/disfluency-RAB- and -LAB-disfluency-RAB- they -LAB-/disfluency-RAB- <ENAMEX TYPE="ORDINAL">first</ENAMEX> of all they 're like <ENAMEX TYPE="CARDINAL">six</ENAMEX> <ENAMEX TYPE="CARDINAL">two</ENAMEX> /.
+[Erica_Hill] and the feathers are taller than fitting into this box /.
+[Kyra_Phillips] And heavy /.
+[Kyra_Phillips] Ew /.
+[Erica_Hill] Exactly /.
+[Erica_Hill] I do n't think I can be a showgirl /.
+[Erica_Hill] I ca n't pull it off /.
+[Kyra_Phillips] No you stick with what you 're doing /.
+[Kyra_Phillips] Thank you <ENAMEX TYPE="PERSON">Erica</ENAMEX> /.
+[Rick_Sanchez] You <ENAMEX TYPE="CARDINAL">two</ENAMEX> stop /.
+[Erica_Hill] Thanks <ENAMEX TYPE="PERSON">Kyra</ENAMEX> /.
+[Kyra_Phillips] Still to come on <ENAMEX TYPE="WORK_OF_ART">Newsnight</ENAMEX> a sweeter than average story much much sweeter as we belly up to the bar the candy bar /.
+[Kyra_Phillips] Do n't get any ideas <ENAMEX TYPE="PERSON">Rick</ENAMEX> /.
+[Rick_Sanchez] Got it /.
+[Rick_Sanchez] Got it /.
+[Rick_Sanchez] With <ENAMEX TYPE="DATE">Halloween</ENAMEX> on our minds you know what we thought of /.
+[Rick_Sanchez] We thought of <ENAMEX TYPE="WORK_OF_ART">Willy Wonka and the Chocolate Factory</ENAMEX> /.
+[Rick_Sanchez] Duh dad as my daughter would say /.
+[Rick_Sanchez] To <ENAMEX TYPE="PERSON">Dylan Lauren</ENAMEX> though who inherited a business smarts from her father that would be <ENAMEX TYPE="PERSON">Ralph Lauren</ENAMEX> the film was -LAB-disfluency-RAB- a -LAB-/disfluency-RAB- a big screen candy coated business plan /.
+[Rick_Sanchez] That 's why she as you 'll see is now on the rise /.
+[Dylan_Lauren] Hi I 'm <ENAMEX TYPE="PERSON">Dylan Lauren</ENAMEX> /.
+[Dylan_Lauren] And I am a candy lover /.
+[Dylan_Lauren] So I decided to take my passion and create the world 's largest candy store and fill it with candy and anything candy related /.
+[Dylan_Lauren] That 's what <ENAMEX TYPE="ORG">Dylan the Candy Bar</ENAMEX> is /.
+[Dylan_Lauren] It 's an homage to candy /.
+[Dylan_Lauren] I was inspired when I was younger by uh <ENAMEX TYPE="WORK_OF_ART">Charlie and the Chocolate Factory</ENAMEX> /.
+[Dylan_Lauren] And it 's a bunch of stores that have a sort of entertainment philosophy /.
+[Dylan_Lauren] And I just thought there 's not anything like that in the candy business that you know /-
+[Dylan_Lauren] <ENAMEX TYPE="ORG">~FAO Schwartz</ENAMEX> had it with toys /.
+[Dylan_Lauren] or <ENAMEX TYPE="ORG">Niketown</ENAMEX> has it with sneakers /.
+[Dylan_Lauren] I thought would n't it be fun for even me who 's a candy freak to just walk in and have this like oversized emporium of oversized lollipops /.
+[Dylan_Lauren] I have <ENAMEX TYPE="CARDINAL">four</ENAMEX> stores at the moment /.
+[Dylan_Lauren] I 'm hoping to open <ENAMEX TYPE="CARDINAL">a good twenty</ENAMEX> more /.
+[Dylan_Lauren] The flagship 's in <ENAMEX TYPE="GPE">New York City</ENAMEX> /.
+[Dylan_Lauren] The other <ENAMEX TYPE="FAC">Dylan 's Candy Bars</ENAMEX> are in <ENAMEX TYPE="GPE">Houston</ENAMEX> <ENAMEX TYPE="GPE">Orlando</ENAMEX> and <ENAMEX TYPE="GPE">Roosevelt Field</ENAMEX> /.
+[Dylan_Lauren] Well this is my office /.
+[Dylan_Lauren] I 've always loved candy /.
+[Dylan_Lauren] At first it was about the taste /.
+[Dylan_Lauren] I love gummy bears and gummy fish /.
+[Dylan_Lauren] I just always started to look at candy 's packaging /.
+[Dylan_Lauren] And as an art history major I also was influenced by a lot of pop artists /.
+[Dylan_Lauren] This is our stripe which are on our bags and our logos /.
+[Dylan_Lauren] I really loved art and candy /.
+[Dylan_Lauren] Did you like the ones that we were talking about for the malls though /?
+[Dylan_Lauren] Our theme is to basically merge pop culture art fashion with candy and also to have like the largest assortment of colors and flavors /.
+[Dylan_Lauren] This is our body uh shake /.
+[Dylan_Lauren] It 's a milk bubble bath chocolate /.
+[Dylan_Lauren] We do n't just carry candy per se to eat /.
+[Dylan_Lauren] We have a spa product like chocolate bath powders and vanilla body moisturizers /.
+[Dylan_Lauren] We 're expanding into um our own <ENAMEX TYPE="ORG">Dylan 's Candy Bars</ENAMEX> spa line /.
+[Dylan_Lauren] Our customer is really the kid in the adult /.
+[Dylan_Lauren] and it 's anyone /.
+[Dylan_Lauren] I think the candy store brings out the kid in everyone /.
+[Dylan_Lauren] And I definitely am /.
+[Dylan_Lauren] I do n't know /.
+[Dylan_Lauren] people do n't know how old I am /.
+[Dylan_Lauren] People think I 'm <ENAMEX TYPE="DATE">fifteen</ENAMEX> because I love candy and I love colors /.
+[Dylan_Lauren] But -LAB-disfluency-RAB- I I -LAB-/disfluency-RAB- I have a mature sensibility about it too /.
+[Dylan_Lauren] But I think you have to have the sort of attitude of creativity and fun and anything is possible /.
+[Rick_Sanchez] Coming up <ENAMEX TYPE="TIME">a special hour</ENAMEX> of <ENAMEX TYPE="WORK_OF_ART">Newsnight</ENAMEX> winning the war on terror [Rick_Sanchez] how other nations are fighting terrorism and what we in the <ENAMEX TYPE="GPE">~US</ENAMEX> are learning from them /.
+[Rick_Sanchez] This is <ENAMEX TYPE="WORK_OF_ART">Newsnight</ENAMEX> /.
+</DOC>

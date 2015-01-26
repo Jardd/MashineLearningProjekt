@@ -1,0 +1,123 @@
+<?xml version="1.0" ?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="take-vpc-v">    
+   <commentary>
+   </commentary>
+   <sense group="1" n="1" name="Multi-word expressions." type="">  
+      <commentary>
+      Note: If it is not one of the following multi-word expressions, please
+      mark the instance as None of the Above.
+      Note: ONLY choose this sense for the phrases listed below. Please
+      check carefully. Extra modifiers may be added, but be sure the basic sense is the same.  For
+      example, "take a big chance" would count as an instance of "take a chance."  However, "take
+      a leave (from her job)" is not the same as "take leave (of his grandmother)" and should not be
+      tagged with this sense.
+       </commentary>
+      <examples>
+       TAKE A BREATHER/FIVE/TEN/TIME OFF
+        TAKE A CHANCE
+        TAKE A FIRM STAND
+        TAKE A HIT
+        TAKE A LEAK
+        TAKE A POWDER
+        TAKE ABACK
+        TAKE ADVANTAGE
+        TAKE CARE
+        TAKE CHANCES
+        TAKE EFFECT
+        TAKE EXCEPTION
+        TAKE FOR GRANTED
+        TAKE HEART
+        TAKE HOME
+        TAKE IN VAIN
+        TAKE ISSUE
+        TAKE IT EASY
+        TAKE IT ON THE CHIN
+        TAKE KINDLY TO
+        TAKE OFFICE
+        TAKE ONE'S LUMPS
+        TAKE PAINS
+        TAKE PART
+        TAKE PLACE
+        TAKE PRIDE        
+        TAKE SHAPE
+        TAKE STAGE
+        TAKE STOCK
+        TAKE THE AIR
+        TAKE THE BULL BY THE HORNS
+        TAKE THE CAKE
+        TAKE THE FIELD
+        TAKE THE FIFTH
+        TAKE THE FIFTH AMENDMENT
+        TAKE THE FLOOR
+        TAKE THE ROAD
+        TAKE THE STAGE
+        TAKE THE STAND
+        TAKE THE VEIL
+        TAKE TIME BY THE FORELOCK
+        TAKE TIME OFF
+        TAKE TO HEART
+        TAKE TO TASK
+        TAKE TURNS
+        TAKE UP ARMS
+        TAKE WATER                       
+     </examples>
+      <mappings>
+         <gr_sense></gr_sense>
+         <wn version="3.0"></wn>   
+         <wn lemma="take_a_breather" version="3.0">1</wn>
+         <wn lemma="take_a_chance" version="3.0">1</wn>
+         <wn lemma="take_a_firm_stand" version="3.0">1</wn>
+         <wn lemma="take_a_hit" version="3.0">1</wn>
+         <wn lemma="take_a_leak" version="3.0">1</wn>
+         <wn lemma="take_a_powder" version="3.0">1</wn>
+         <wn lemma="take_aback" version="3.0">1</wn>
+         <wn lemma="take_advantage" version="3.0">1,2</wn>
+         <wn lemma="take_care" version="3.0">1,2,3</wn>
+         <wn lemma="take_chances" version="3.0">1</wn>
+         <wn lemma="take_effect" version="3.0">1</wn>
+         <wn lemma="take_exception" version="3.0">1</wn>
+         <wn lemma="take_five" version="3.0">1</wn>
+         <wn lemma="take_for_granted" version="3.0">1</wn>
+         <wn lemma="take_heart" version="3.0">1</wn>
+         <wn lemma="take_home" version="3.0">1</wn>
+         <wn lemma="take_in_vain" version="3.0">1</wn>
+         <wn lemma="take_issue" version="3.0">1</wn>
+         <wn lemma="take_it_easy" version="3.0">1</wn>
+         <wn lemma="take_it_on_the_chin" version="3.0">1</wn>
+         <wn lemma="take_kindly_to" version="3.0">1</wn>
+         <wn lemma="take_office" version="3.0">1</wn>
+         <wn lemma="take_one's_lumps" version="3.0">1</wn>
+         <wn lemma="take_pains" version="3.0">1</wn>
+         <wn lemma="take_part" version="3.0">1</wn>
+         <wn lemma="take_place" version="3.0">1</wn>
+         <wn lemma="take_pride" version="3.0">1</wn>
+         <wn lemma="take_shape" version="3.0">1</wn>
+         <wn lemma="take_stage" version="3.0">1</wn>
+         <wn lemma="take_stock" version="3.0">1,2</wn>
+         <wn lemma="take_ten" version="3.0">1</wn>
+         <wn lemma="take_the_air" version="3.0">1</wn>
+         <wn lemma="take__the_bull_by_the_horns" version="3.0">1</wn>
+         <wn lemma="take_the_cake" version="3.0">1</wn>
+         <wn lemma="take_the_count" version="3.0">1</wn>
+         <wn lemma="take_the_field" version="3.0">1,2</wn>
+         <wn lemma="take_the_fifth" version="3.0">1</wn>
+         <wn lemma="take_the_fifth_amendment" version="3.0">1</wn>
+         <wn lemma="take_the_floor" version="3.0">1,2</wn>
+         <wn lemma="take_the_road" version="3.0">1</wn>
+         <wn lemma="take_the_stage" version="3.0">1</wn>
+         <wn lemma="take_the_stand" version="3.0">1</wn>
+         <wn lemma="take_the_veil" version="3.0">1</wn>
+         <wn lemma="take_time_by_the_forelock" version="3.0">1</wn>
+         <wn lemma="take_time_off" version="3.0">1</wn>
+         <wn lemma="take_to_heart" version="3.0">1</wn>
+         <wn lemma="take_to_task" version="3.0">1</wn>
+         <wn lemma="take_turns" version="3.0">1</wn>
+         <wn lemma="take_up_arms" version="3.0">1</wn>
+         <wn lemma="take_water" version="3.0">1</wn>
+         <omega/><pb>take.01,take.04,take.14,take.17,take.20</pb>
+         <vn>NM</vn><fn>NM</fn>
+      </mappings><SENSE_META clarity=""/>
+   </sense>
+   <WORD_META authors="corvey" sample_score="-"/>  
+</inventory>

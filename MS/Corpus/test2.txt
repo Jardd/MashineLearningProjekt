@@ -1,0 +1,26 @@
+bc/cnn/00/cnn_0001   17    0     People   NNS     (TOP(S(NP*)   people   -   1    Dylan_Lauren       *    (ARG0*)           *         *         *       -
+bc/cnn/00/cnn_0001   17    1      think   VBP           (VP*     think  01   1    Dylan_Lauren       *       (V*)           *         *         *       -
+bc/cnn/00/cnn_0001   17    2          I   PRP    (SBAR(S(NP*)       -    -   -    Dylan_Lauren       *    (ARG1*       (ARG1*)        *         *    (148)
+bc/cnn/00/cnn_0001   17    3         'm   VBP           (VP*        be  01   1    Dylan_Lauren       *         *          (V*)        *         *       -
+bc/cnn/00/cnn_0001   17    4    fifteen    CD         (ADJP*)       -    -   -    Dylan_Lauren   (DATE)        *       (ARG2*)        *         *       -
+bc/cnn/00/cnn_0001   17    5    because    IN         (SBAR*        -    -   -    Dylan_Lauren       *         *   (ARGM-CAU*         *         *       -
+bc/cnn/00/cnn_0001   17    6          I   PRP       (S(S(NP*)       -    -   -    Dylan_Lauren       *         *            *    (ARG0*)        *    (148)
+bc/cnn/00/cnn_0001   17    7       love   VBP           (VP*      love  01   1    Dylan_Lauren       *         *            *       (V*)        *       -
+bc/cnn/00/cnn_0001   17    8      candy    NN         (NP*)))    candy   -   -    Dylan_Lauren       *         *            *    (ARG1*)        *       -
+bc/cnn/00/cnn_0001   17    9        and    CC              *        -    -   -    Dylan_Lauren       *         *            *         *         *       -
+bc/cnn/00/cnn_0001   17   10          I   PRP         (S(NP*)       -    -   -    Dylan_Lauren       *         *            *         *    (ARG0*)   (148)
+bc/cnn/00/cnn_0001   17   11       love   VBP           (VP*      love  01   1    Dylan_Lauren       *         *            *         *       (V*)      -
+bc/cnn/00/cnn_0001   17   12     colors   NNS   (NP*)))))))))   colour   -   -    Dylan_Lauren       *         *)           *)        *    (ARG1*)      -
+bc/cnn/00/cnn_0001   17   13         /.     .             *))       -    -   -    Dylan_Lauren       *         *            *         *         *       -
+
+bc/cnn/00/cnn_0001   17   0            But    CC   (TOP(S*      -    -   -    Dylan_Lauren  *    (ARGM-DIS*)      -
+bc/cnn/00/cnn_0001   17   1              I   PRP      (NP*)     -    -   -    Dylan_Lauren  *        (ARG0*)   (148)
+bc/cnn/00/cnn_0001   17   2           have   VBP      (VP*    have  03   2    Dylan_Lauren  *           (V*)      -
+bc/cnn/00/cnn_0001   17   3              a    DT   (NP(NP*      -    -   -    Dylan_Lauren  *        (ARG1*       -
+bc/cnn/00/cnn_0001   17   4         mature    JJ         *      -    -   -    Dylan_Lauren  *             *       -
+bc/cnn/00/cnn_0001   17   5    sensibility    NN         *)     -    -   -    Dylan_Lauren  *             *       -
+bc/cnn/00/cnn_0001   17   6          about    IN      (PP*      -    -   -    Dylan_Lauren  *             *       -
+bc/cnn/00/cnn_0001   17   7             it   PRP    (NP*)))     -    -   -    Dylan_Lauren  *             *)      -
+bc/cnn/00/cnn_0001   17   8            too    RB   (ADVP*))     -    -   -    Dylan_Lauren  *    (ARGM-ADV*)      -
+bc/cnn/00/cnn_0001   17   9             /.     .        *))     -    -   -    Dylan_Lauren  *             *       -
+

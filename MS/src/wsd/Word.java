@@ -27,11 +27,14 @@ public class Word {
 	//			System.out.println("senseWN: "+senses.get(i));
 				
 				if(senseAndIndex.length()>1){//Nur wenn ein sense gefunden wurde
-					String[]tmp=senseAndIndex.split("\\|", 2);
-//				System.out.println("tmp 0: "+tmp[0]);
-//				System.out.println("tmp1: "+tmp[1]);
-					String sense=tmp[1];
-					Integer index=Integer.parseInt(tmp[0]);
+					
+					//String[]tmp=senseAndIndex.split("\\|", 2);
+					String stringIndex=senseAndIndex.substring(0, 8);
+					String sense=senseAndIndex.substring(10);
+//				System.out.println("index: "+stringIndex);
+//				System.out.println("sense: "+ sense);
+					//String sense=tmp[1];
+					Integer index=Integer.parseInt(stringIndex);
 			
 			
 					Vertice v=new Vertice(sense,this);

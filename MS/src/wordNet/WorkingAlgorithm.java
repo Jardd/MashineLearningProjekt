@@ -29,24 +29,24 @@ public class WorkingAlgorithm {
 		 * InputWord der Methode PatternSeeker.seekPattern()
 		 */
 		//pos wird umbenannt, um danach die entsprechende datei aufzurufen, in der die wortarten gespeichert sind.
-		if (pos == "n") {
+		if (pos.equals("n")) {
 			pos = "noun";
 		}
-		else if (pos == "v") {
+		else if (pos.equals("v")) {
 			pos = "verb";
 		}
-		else if (pos == "a") {
-			pos = "adj";
-		}
-		else if (pos == "r") {
-			pos = "adv";
-		}
+//		else if (pos == "a") {
+//			pos = "adj";
+//		}
+//		else if (pos == "r") {
+//			pos = "adv";
+//		}
 		else {
 			System.out.println("Fehler: pos hat einen ungültigen Wert: " + pos);
 		}
 		
 		ArrayList<String> outputList = new ArrayList<String>();
-		String dataDocument = "data/data." + pos; //link zum datenset
+		String dataDocument = "dict/data." + pos; //link zum datenset
 		
 		//datei wird ausgelesen
 		try{
@@ -63,11 +63,11 @@ public class WorkingAlgorithm {
 			bufferReader.close();
 		}
 		catch(Exception e) {
-	        System.out.println("Error while reading file line by line:" + e.getMessage());
+	        //System.out.println("Error while reading file line by line:" + e.getMessage());
 	    }
 
-		System.out.println("outputList:");
-		System.out.println(outputList);
+//		System.out.println("outputList:");
+		//System.out.println(outputList);
 	return outputList;
 	}
 }

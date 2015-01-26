@@ -29,9 +29,11 @@ public class Edge {
 		String[] verticeTwoWords = verticeTwo.getSenseDiscription().split(" ");
 		int wordsInCommon=0;
 		for (String w:verticeOneWords){
-			for (String w2: verticeTwoWords){
-				if(w.equals(w2)){
-					value+=wordsInCommon++;
+			if(Execute.getFunctionWords().contains(w)==false){
+				for (String w2: verticeTwoWords){
+					if(w.equals(w2)){
+						value+=wordsInCommon++;
+					}
 				}
 			}
 		}
